@@ -4,15 +4,14 @@ export default [
     "name": "Android 18",
     "shortDescription": "Cyborg Warrior",
     "description": "Android 18 is a skilled martial artist and one of the androids created by Dr. Gero to kill Goku.",
-    "imageUrl": "url-to-3d-image-android-18.jpg",
+    "imageUrl": "https://th.bing.com/th/id/OIG.Dav5Iv6rENBcqTcnspoM?pid=ImgGn",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Unknown",
       "mainField": "Combat"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/genera-una-imagen-de-ada-lovelace2c-la-primera-prog/650a1eff8ff04b88833d5cdef0309441"
-    }
+      "imageSource": "https://www.bing.com/images/create/androide182c-dragon-ball2c-battle2c-front-2c-3d/6525c71ebfb24d9290521bab7277cb93?id=wn4KHs%2bakteVAa%2bCMU1Oig%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
   },
   {
     "id": "bulma-mom", // 2
