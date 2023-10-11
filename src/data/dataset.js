@@ -12,20 +12,22 @@ export default [
     },
     "extraInfo": {
       "imageSource": "https://www.bing.com/images/create/androide182c-dragon-ball2c-battle2c-front-2c-3d/6525c71ebfb24d9290521bab7277cb93?id=wn4KHs%2bakteVAa%2bCMU1Oig%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
-  },
+    } 
+    },
+
   {
     "id": "bulma-mom", // 2
     "name": "Bulma's Mom",
     "shortDescription": "Supportive Mother",
     "description": "Bulma's mother is a caring and supportive figure in Bulma's life, providing guidance and encouragement.",
-    "imageUrl": "url-to-3d-image-bulma-mom.jpg",
+    "imageUrl":" https://th.bing.com/th/id/OIG.MQ8N9WWarFrzYdiP6o.L?pid=ImgGn",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Unknown",
       "mainField": "Family"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-an-image-of-of-a-german-woman2c-a-pioneering/6510ddb1e8254b928b8f8f1d5e95fea4"
+      "imageSource": "https://www.bing.com/images/create/madre-de-bulma2c-dragon-ball2cescena-hogarec3b1a2c-front/6525d164d4fd41969dc86ca9a666eb52?id=44%2b7obgjTd3iiDFc3mOTyQ%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
   {
@@ -33,14 +35,14 @@ export default [
     "name": "Launch",
     "shortDescription": "Dual-Personality Bandit",
     "description": "Launch has a dual personality, with one being a kind-hearted woman and the other a trigger-happy bandit.",
-    "imageUrl": "url-to-3d-image-launch.jpg",
+    "imageUrl": "",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Unknown",
       "mainField": "Banditry"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-a-vivid-digital-artwork-or-painting-that-de/6510df0ebe1a4807af22175452761e1a"
+      "imageSource": "https://th.bing.com/th/id/OIG.MshG9VLcvVCzbpgkBebm?pid=ImgGn"
     }
   },
   {
@@ -48,16 +50,16 @@ export default [
     "name": "Pan",
     "shortDescription": "Granddaughter of Goku",
     "description": "Pan is the granddaughter of Goku and Chi-Chi, appearing in Dragon Ball GT as a young and adventurous Saiyan.",
-    "imageUrl": "url-to-3d-image-pan.jpg",
+    "imageUrl": "https://th.bing.com/th/id/OIG.MshG9VLcvVCzbpgkBebm?pid=ImgGn",
     "facts": {
       "yearOfBirth": 779,
       "placeOfBirth": "Earth",
       "mainField": "Adventure"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/design-an-inspiring-and-historically-accurate-imag/6510df7e7bb745f69d67f695441607a8"
-    }
-  },
+      "imageSource":"https://www.bing.com/images/create/pan2c----granddaughter-of-goku-3d/6525d79ea4b2474ab2db9c61f79bb975?id=99X2CxVW6H4ZpoZm%2f%2f0vdA%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+  }
+},
   {
     "id": "android-21", // 5
     "name": "Android 21",
