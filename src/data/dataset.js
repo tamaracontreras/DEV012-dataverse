@@ -11,7 +11,7 @@ export default [
       "mainField": "Combat"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/genera-una-imagen-de-ada-lovelace2c-la-primera-prog/650a1eff8ff04b88833d5cdef0309441"
+      "imageSource": "https://www.bing.com/images/create/genera-una-imagen-en-formato-3d-del-androide-18-de/6524b342f4bd4e86befc90475200ae5f?id=p%2fLJkSOqYT1ZlxYsOSwJAg%3d%3d&view=detailv2&idpp=genimg&darkschemeovr=0"
     }
   },
   {
@@ -26,7 +26,7 @@ export default [
       "mainField": "Family"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-an-image-of-of-a-german-woman2c-a-pioneering/6510ddb1e8254b928b8f8f1d5e95fea4"
+      "imageSource": "https://www.bing.com/images/create/bulma2c-la-cientc3adfica-de-dragon-ball2c-en-su-laborat/6524a49156bb445b822e26aa694c67f1?id=%2ft6In6Os64fsnt7qMveDCQ%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
     }
   },
   {
@@ -41,7 +41,7 @@ export default [
       "mainField": "Banditry"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-a-vivid-digital-artwork-or-painting-that-de/6510df0ebe1a4807af22175452761e1a"
+      "imageSource": "https://www.bing.com/images/create/genera-una-imagen-en-formato-3d-de-la-mujer-que-se/6524b54131864b19b134407b92b292de?id=1%2frEzRlPaCB42FotqKh2KA%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
   {
@@ -56,7 +56,7 @@ export default [
       "mainField": "Adventure"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/design-an-inspiring-and-historically-accurate-imag/6510df7e7bb745f69d67f695441607a8"
+      "imageSource": "https://www.bing.com/images/create/disec3b1a-una-imagen-en-3d-de-la-nieta-de-goku/6524b65b2c2c482aa49921573f8aef3e?id=PBj4FlJz3z%2fDf7ykBmq14g%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
   {
@@ -71,7 +71,7 @@ export default [
       "mainField": "Science"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/indian-woman-writing-math-problems-in-a-blackbard-/6510e19f3db54e14b365b7e8dc5045f6"
+      "imageSource": "https://www.bing.com/images/create/genera-la-imagen-tridimensional-del-androide-21-de/6524b969d76c4120b0efe0a5a66a47ac?id=7sgFmI4jfutojSHbEZEnfg%3d%3d&view=detailv2&idpp=genimg&darkschemeovr=0&FORM=GCRIDP&ajaxhist=0&ajaxserp=0genera"
     }
   },
   {
@@ -86,7 +86,7 @@ export default [
       "mainField": "Family"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/indian-woman-writing-math-problems-in-a-blackbard-/6510e19f3db54e14b365b7e8dc5045f6"
+      "imageSource": "https://www.bing.com/images/create/imagen-3d-de-la-mamc3a1-de-videl-en-la-serie-de-drago/6524bda22b8a4029ab12970c87a35920?darkschemeovr=0&FORM=GENCRE",
     }
   },
   {
@@ -101,7 +101,7 @@ export default [
       "mainField": "Adventure"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/yoko-shimomura-making-music-for-a-video-game-in-19/6510e40dd1eb45d0906e8c1f4bb601d3"
+      "imageSource": "https://www.bing.com/images/create/videl-hija-en-la-serie-de-dragon-ball2c-formato-3d-/6524be62998943e5b90343bd29549644?id=j1dbJ8fSv38LOr7%2baBwQ5A%3d%3d&view=detailv2&idpp=genimg&darkschemeovr=0&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
   {
@@ -116,7 +116,7 @@ export default [
       "mainField": "Martial Arts"
     },
     "extraInfo": {
-      "imageSource": "https://chalkdustmagazine.com/features/mathematics-maryam-mirzakhani/"
+      "imageSource": "ttps://www.bing.com/images/create/videl-hija-en-la-serie-de-dragon-ball2c-formato-3d-/6524be62998943e5b90343bd29549644?id=j1dbJ8fSv38LOr7%2baBwQ5A%3d%3d&view=detailv2&idpp=genimg&darkschemeovr=0&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
   {
@@ -131,7 +131,7 @@ export default [
       "mainField": "Dark Arts"
     },
     "extraInfo": {
-      "imageSource": "https://pionerasinformaticas.ujaen.es/en/computer-women-pioneers/adele-goldberg-en"
+      "imageSource": "hhttps://www.bing.com/images/create/towa-personaje-femenino-de-piel-azul-y-vestido-neg/652584ab2d5d4059b585472d8cd9b964?id=ONBa%2bZ5qfzy8NFnQMi5kPw%3d%3d&view=detailv2&idpp=genimg&darkschemeovr=0&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
   {
@@ -146,7 +146,7 @@ export default [
       "mainField": "Combat"
     },
     "extraInfo": {
-      "imageSource": "https://medium.com/a-computer-of-ones-own/barbara-liskov-inventor-of-abstract-data-types-9f8908fdcf86"
+      "imageSource": "https://www.bing.com/images/create/imagen-en-formato-3d-de-la-mujer-super-saiyajin-ll/65258898d53f41b98577cfa740bb1092?id=oHZyP2pGIxqDO8dJjy0%2bdQ%3d%3d&view=detailv2&idpp=genimg&darkschemeovr=0&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
   {
@@ -161,7 +161,7 @@ export default [
       "mainField": "Magical Combat"
     },
     "extraInfo": {
-      "imageSource": "https://photos.com/featured/grace-hopper-with-early-computer-bettmann.html"
+      "imageSource": "https://www.bing.com/images/create/imagen-en-formato-3d-de-brianne-de-chateau2c-quien-/65258b89685144438627a275f55b216b?darkschemeovr=0&FORM=GUH2CR"
     }
   },
   {
@@ -176,7 +176,7 @@ export default [
       "mainField": "Combat"
     },
     "extraInfo": {
-      "imageSource": "https://odetta.ai/blogs/margaret-hamilton-the-first-software-engineer"
+      "imageSource": "https://www.bing.com/images/create/imagen-tridimensional-de-kale2c-tambic3a9n-conocida-co/65258ecb38be4656ba272e8b91d997fe?id=BziiVji3Y%2fdn2388TqY1oA%3d%3d&view=detailv2&idpp=genimg&darkschemeovr=0&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
   {
@@ -356,7 +356,7 @@ export default [
       "mainField": "Family"
     },
     "extraInfo": {
-      "imageSource": "https://www.esa.int/ESA_Multimedia/Images/2020/07/Artistic_illustration_of_Rosalind_Franklin"
+      "imageSource": "https://www.bing.com/images/create/imagen-en-formato-3d-de-la-segunda-hija-mujer-de-v/6525871fc2684275899ac4613376dfd6?id=Qvc5pfhNj%2bEPV21jdrzKkQ%3d%3d&view=detailv2&idpp=genimg&darkschemeovr=0&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   }
 ];
