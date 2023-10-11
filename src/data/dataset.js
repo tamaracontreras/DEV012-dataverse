@@ -65,15 +65,14 @@ export default [
     "name": "Android 21",
     "shortDescription": "Android Scientist",
     "description": "Android 21 is an original character in the Dragon Ball universe, known for her scientific expertise.",
-    "imageUrl": "url-to-3d-image-android-21.jpg",
+    "imageUrl": "https://th.bing.com/th/id/OIG.aei.b7RbfT9ilDlT7MC.?pid=ImgGn",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Unknown",
       "mainField": "Science"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/indian-woman-writing-math-problems-in-a-blackbard-/6510e19f3db54e14b365b7e8dc5045f6"
-    }
+      "imageSource": "https://www.bing.com/images/create/android-212c-3d2c-dragon-ball/6526940fcbfe463d8971fc86b7868f6b?id=ObDrIbDI8G9qcuARyqA7Cw%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
   },
   {
     "id": "videl-mom", // 6
