@@ -5,8 +5,35 @@
     <title>Data Lovers</title>
     <link rel="stylesheet" href="style.css" />
   </head>
+
+  <header>
+    <h1>DATAVERSE</h1>
+    <link rel="stylesheet" href="style.css" />
+  </header>
+
   <body>
     <h1>Hola!</h1> 
     <script src="main.js" type="module"></script>
+
+    <div id="root">
+      <ul>
+        
+      </ul>
+    </div> 
+    <label id="filter-type">  
+      <select data-testid="select-filter" name="type" id="select-filter">
+        <option value="Genero">Género</option>
+        <option value="Especialidad">Especialidad</option>
+        <option value="Planeta proveniente">Planeta proveniente</option>
+      </select>
+    </label>
+    <label id="sorting">
+      <select data-testid="select-sort" name="alph">
+        <option value="desc">A-Z</option>
+        <option value="asc">Z-A</option>
+      </select>
+    </label>
+  <button data-testid="button-clear"></button>
   </body>
 </html>
+

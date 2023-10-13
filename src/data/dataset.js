@@ -4,7 +4,7 @@ export default [
     "name": "Android 18",
     "shortDescription": "Cyborg Warrior",
     "description": "Android 18 is a skilled martial artist and one of the androids created by Dr. Gero to kill Goku.",
-    "imageUrl": "url-to-3d-image-android-18.jpg",
+    "imageUrl": "../images/2.Androide18.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Unknown",
@@ -19,7 +19,7 @@ export default [
     "name": "Bulma's Mom",
     "shortDescription": "Supportive Mother",
     "description": "Bulma's mother is a caring and supportive figure in Bulma's life, providing guidance and encouragement.",
-    "imageUrl": "url-to-3d-image-bulma-mom.jpg",
+    "imageUrl": "../images/3.Bulma.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Unknown",
@@ -34,7 +34,7 @@ export default [
     "name": "Launch",
     "shortDescription": "Dual-Personality Bandit",
     "description": "Launch has a dual personality, with one being a kind-hearted woman and the other a trigger-happy bandit.",
-    "imageUrl": "url-to-3d-image-launch.jpg",
+    "imageUrl": "../images/4.Launch.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Unknown",
@@ -49,7 +49,7 @@ export default [
     "name": "Pan",
     "shortDescription": "Granddaughter of Goku",
     "description": "Pan is the granddaughter of Goku and Chi-Chi, appearing in Dragon Ball GT as a young and adventurous Saiyan.",
-    "imageUrl": "url-to-3d-image-pan.jpg",
+    "imageUrl": "../images/5.Pan.jpg",
     "facts": {
       "yearOfBirth": 779,
       "placeOfBirth": "Earth",
@@ -64,7 +64,7 @@ export default [
     "name": "Android 21",
     "shortDescription": "Android Scientist",
     "description": "Android 21 is an original character in the Dragon Ball universe, known for her scientific expertise.",
-    "imageUrl": "url-to-3d-image-android-21.jpg",
+    "imageUrl": "../images/6.androide 21.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Unknown",
@@ -75,11 +75,11 @@ export default [
     }
   },
   {
-    "id": "videl-mom", // 6
-    "name": "Videl's Mom",
+    "id": "Miguel", // 6
+    "name": "Miguel",
     "shortDescription": "Supportive Parent",
     "description": "Videl's mother is a supportive figure in Videl's life, encouraging her daughter's martial arts pursuits.",
-    "imageUrl": "url-to-3d-image-videl-mom.jpg",
+    "imageUrl": "../images/7.videl mom.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Unknown",
@@ -109,7 +109,7 @@ export default [
     "name": "Videl",
     "shortDescription": "Skilled Martial Artist",
     "description": "Videl is the daughter of Mr. Satan and the wife of Gohan. She is a skilled martial artist.",
-    "imageUrl": "url-to-3d-image-videl.jpg",
+    "imageUrl": "../images/8.videl.jpg",
     "facts": {
       "yearOfBirth": 756,
       "placeOfBirth": "Earth",
@@ -124,7 +124,7 @@ export default [
     "name": "Towa",
     "shortDescription": "Dark Sorceress",
     "description": "Towa is a dark sorceress and a key antagonist in Dragon Ball Xenoverse, manipulating time for her nefarious purposes.",
-    "imageUrl": "url-to-3d-image-towa.jpg",
+    "imageUrl": "../images/9.towa.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Demon Realm",
@@ -139,7 +139,7 @@ export default [
     "name": "Fasha",
     "shortDescription": "Saiyan Warrior",
     "description": "Fasha, also known as Seripa, is a Saiyan warrior and a member of Bardock's elite team.",
-    "imageUrl": "url-to-3d-image-fasha.jpg",
+    "imageUrl": "../images/11.fasha.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Planet Vegeta",
@@ -154,7 +154,7 @@ export default [
     "name": "Brianne de Chateau",
     "shortDescription": "Magical Girl",
     "description": "Brianne de Chateau, also known as Ribrianne, is a warrior from Universe 2 who transforms into a powerful magical girl.",
-    "imageUrl": "url-to-3d-image-brianne-de-chateau.jpg",
+    "imageUrl": "../images/12.Brianne de chateau.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Unknown",
@@ -169,7 +169,7 @@ export default [
     "name": "Kale",
     "shortDescription": "Legendary Saiyan",
     "description": "Kale is a Saiyan from Universe 6 who becomes a Legendary Super Saiyan, possessing immense power.",
-    "imageUrl": "url-to-3d-image-kale.jpg",
+    "imageUrl": "../images/13.kale.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Sadala",
@@ -184,7 +184,7 @@ export default [
     "name": "Caulifla",
     "shortDescription": "Saiyan Warrior",
     "description": "Caulifla is a Saiyan from Universe 6 andthe sister of Renso, known for her exceptional combat abilities.",
-    "imageUrl": "url-to-3d-image-caulifla.jpg",
+    "imageUrl": "../images/1.Vados.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Sadala",
@@ -274,7 +274,7 @@ export default [
     "name": "Vados",
     "shortDescription": "Angel Attendant",
     "description": "Vados is Whis's older sister and the attendant to Champa, the God of Destruction of Universe 6.",
-    "imageUrl": "url-to-3d-image-vados.jpg",
+    "imageUrl": "../images/1.Vados.jpg.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Unknown",
@@ -349,7 +349,7 @@ export default [
     "name": "Bulla",
     "shortDescription": "Daughter of Vegeta and Bulma",
     "description": "Bulla is the daughter of Vegeta and Bulma, appearing as a young child in Dragon Ball GT.",
-    "imageUrl": "url-to-3d-image-bulla.jpg",
+    "imageUrl": "../images/10.bulla.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Earth",
