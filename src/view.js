@@ -9,7 +9,7 @@ export const renderItems = (data) => {
         `
   }
     
-  console.log(content);
+  console.log(htmlData(content));
 };
 
 
