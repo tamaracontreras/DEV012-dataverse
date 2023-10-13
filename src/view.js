@@ -1,6 +1,16 @@
 export const renderItems = (data) => {
   console.log(data)
   // Aquí comienza tu código y puedes retornar lo que tu necesites
-  return 'example';
+  function htmlData(data){
+    const content = `
+    <dl>
+      <dt>Nombre:</dt><${data.name}>
+    </dl>
+        `
+  }
+    
+  console.log(content);
 };
 
+
+//aquí voy crear el html

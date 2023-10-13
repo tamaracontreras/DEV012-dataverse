@@ -4,14 +4,14 @@ export default [
     "name": "Android 18",
     "shortDescription": "Cyborg Warrior",
     "description": "Android 18 is a skilled martial artist and one of the androids created by Dr. Gero to kill Goku.",
-    "imageUrl": "url-to-3d-image-android-18.jpg",
+    "imageUrl": "../images/2.Androide18.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Unknown",
       "mainField": "Combat"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/genera-una-imagen-de-ada-lovelace2c-la-primera-prog/650a1eff8ff04b88833d5cdef0309441"
+      "imageSource": "https://www.bing.com/images/create/genera-una-imagen-en-formato-3d-del-androide-18-de/6524b342f4bd4e86befc90475200ae5f?id=p%2fLJkSOqYT1ZlxYsOSwJAg%3d%3d&view=detailv2&idpp=genimg&darkschemeovr=0"
     }
   },
   {
@@ -19,14 +19,14 @@ export default [
     "name": "Bulma's Mom",
     "shortDescription": "Supportive Mother",
     "description": "Bulma's mother is a caring and supportive figure in Bulma's life, providing guidance and encouragement.",
-    "imageUrl": "url-to-3d-image-bulma-mom.jpg",
+    "imageUrl": "../images/3.Bulma.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Unknown",
       "mainField": "Family"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-an-image-of-of-a-german-woman2c-a-pioneering/6510ddb1e8254b928b8f8f1d5e95fea4"
+      "imageSource": "https://www.bing.com/images/create/bulma2c-la-cientc3adfica-de-dragon-ball2c-en-su-laborat/6524a49156bb445b822e26aa694c67f1?id=%2ft6In6Os64fsnt7qMveDCQ%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
     }
   },
   {
@@ -34,14 +34,14 @@ export default [
     "name": "Launch",
     "shortDescription": "Dual-Personality Bandit",
     "description": "Launch has a dual personality, with one being a kind-hearted woman and the other a trigger-happy bandit.",
-    "imageUrl": "url-to-3d-image-launch.jpg",
+    "imageUrl": "../images/4.Launch.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Unknown",
       "mainField": "Banditry"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-a-vivid-digital-artwork-or-painting-that-de/6510df0ebe1a4807af22175452761e1a"
+      "imageSource": "https://www.bing.com/images/create/genera-una-imagen-en-formato-3d-de-la-mujer-que-se/6524b54131864b19b134407b92b292de?id=1%2frEzRlPaCB42FotqKh2KA%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
   {
@@ -49,14 +49,14 @@ export default [
     "name": "Pan",
     "shortDescription": "Granddaughter of Goku",
     "description": "Pan is the granddaughter of Goku and Chi-Chi, appearing in Dragon Ball GT as a young and adventurous Saiyan.",
-    "imageUrl": "url-to-3d-image-pan.jpg",
+    "imageUrl": "../images/5.Pan.jpg",
     "facts": {
       "yearOfBirth": 779,
       "placeOfBirth": "Earth",
       "mainField": "Adventure"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/design-an-inspiring-and-historically-accurate-imag/6510df7e7bb745f69d67f695441607a8"
+      "imageSource": "https://www.bing.com/images/create/disec3b1a-una-imagen-en-3d-de-la-nieta-de-goku/6524b65b2c2c482aa49921573f8aef3e?id=PBj4FlJz3z%2fDf7ykBmq14g%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
   {
@@ -64,29 +64,29 @@ export default [
     "name": "Android 21",
     "shortDescription": "Android Scientist",
     "description": "Android 21 is an original character in the Dragon Ball universe, known for her scientific expertise.",
-    "imageUrl": "url-to-3d-image-android-21.jpg",
+    "imageUrl": "../images/6.androide 21.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Unknown",
       "mainField": "Science"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/indian-woman-writing-math-problems-in-a-blackbard-/6510e19f3db54e14b365b7e8dc5045f6"
+      "imageSource": "https://www.bing.com/images/create/genera-la-imagen-tridimensional-del-androide-21-de/6524b969d76c4120b0efe0a5a66a47ac?id=7sgFmI4jfutojSHbEZEnfg%3d%3d&view=detailv2&idpp=genimg&darkschemeovr=0&FORM=GCRIDP&ajaxhist=0&ajaxserp=0genera"
     }
   },
   {
-    "id": "videl-mom", // 6
-    "name": "Videl's Mom",
+    "id": "Miguel", // 6
+    "name": "Miguel",
     "shortDescription": "Supportive Parent",
     "description": "Videl's mother is a supportive figure in Videl's life, encouraging her daughter's martial arts pursuits.",
-    "imageUrl": "url-to-3d-image-videl-mom.jpg",
+    "imageUrl": "../images/7.videl mom.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Unknown",
       "mainField": "Family"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/indian-woman-writing-math-problems-in-a-blackbard-/6510e19f3db54e14b365b7e8dc5045f6"
+      "imageSource": "https://www.bing.com/images/create/imagen-3d-de-la-mamc3a1-de-videl-en-la-serie-de-drago/6524bda22b8a4029ab12970c87a35920?darkschemeovr=0&FORM=GENCRE",
     }
   },
   {
@@ -101,7 +101,7 @@ export default [
       "mainField": "Adventure"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/yoko-shimomura-making-music-for-a-video-game-in-19/6510e40dd1eb45d0906e8c1f4bb601d3"
+      "imageSource": "https://www.bing.com/images/create/videl-hija-en-la-serie-de-dragon-ball2c-formato-3d-/6524be62998943e5b90343bd29549644?id=j1dbJ8fSv38LOr7%2baBwQ5A%3d%3d&view=detailv2&idpp=genimg&darkschemeovr=0&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
   {
@@ -109,14 +109,14 @@ export default [
     "name": "Videl",
     "shortDescription": "Skilled Martial Artist",
     "description": "Videl is the daughter of Mr. Satan and the wife of Gohan. She is a skilled martial artist.",
-    "imageUrl": "url-to-3d-image-videl.jpg",
+    "imageUrl": "../images/8.videl.jpg",
     "facts": {
       "yearOfBirth": 756,
       "placeOfBirth": "Earth",
       "mainField": "Martial Arts"
     },
     "extraInfo": {
-      "imageSource": "https://chalkdustmagazine.com/features/mathematics-maryam-mirzakhani/"
+      "imageSource": "ttps://www.bing.com/images/create/videl-hija-en-la-serie-de-dragon-ball2c-formato-3d-/6524be62998943e5b90343bd29549644?id=j1dbJ8fSv38LOr7%2baBwQ5A%3d%3d&view=detailv2&idpp=genimg&darkschemeovr=0&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
   {
@@ -124,14 +124,14 @@ export default [
     "name": "Towa",
     "shortDescription": "Dark Sorceress",
     "description": "Towa is a dark sorceress and a key antagonist in Dragon Ball Xenoverse, manipulating time for her nefarious purposes.",
-    "imageUrl": "url-to-3d-image-towa.jpg",
+    "imageUrl": "../images/9.towa.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Demon Realm",
       "mainField": "Dark Arts"
     },
     "extraInfo": {
-      "imageSource": "https://pionerasinformaticas.ujaen.es/en/computer-women-pioneers/adele-goldberg-en"
+      "imageSource": "hhttps://www.bing.com/images/create/towa-personaje-femenino-de-piel-azul-y-vestido-neg/652584ab2d5d4059b585472d8cd9b964?id=ONBa%2bZ5qfzy8NFnQMi5kPw%3d%3d&view=detailv2&idpp=genimg&darkschemeovr=0&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
   {
@@ -139,14 +139,14 @@ export default [
     "name": "Fasha",
     "shortDescription": "Saiyan Warrior",
     "description": "Fasha, also known as Seripa, is a Saiyan warrior and a member of Bardock's elite team.",
-    "imageUrl": "url-to-3d-image-fasha.jpg",
+    "imageUrl": "../images/11.fasha.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Planet Vegeta",
       "mainField": "Combat"
     },
     "extraInfo": {
-      "imageSource": "https://medium.com/a-computer-of-ones-own/barbara-liskov-inventor-of-abstract-data-types-9f8908fdcf86"
+      "imageSource": "https://www.bing.com/images/create/imagen-en-formato-3d-de-la-mujer-super-saiyajin-ll/65258898d53f41b98577cfa740bb1092?id=oHZyP2pGIxqDO8dJjy0%2bdQ%3d%3d&view=detailv2&idpp=genimg&darkschemeovr=0&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
   {
@@ -154,14 +154,14 @@ export default [
     "name": "Brianne de Chateau",
     "shortDescription": "Magical Girl",
     "description": "Brianne de Chateau, also known as Ribrianne, is a warrior from Universe 2 who transforms into a powerful magical girl.",
-    "imageUrl": "url-to-3d-image-brianne-de-chateau.jpg",
+    "imageUrl": "../images/12.Brianne de chateau.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Unknown",
       "mainField": "Magical Combat"
     },
     "extraInfo": {
-      "imageSource": "https://photos.com/featured/grace-hopper-with-early-computer-bettmann.html"
+      "imageSource": "https://www.bing.com/images/create/imagen-en-formato-3d-de-brianne-de-chateau2c-quien-/65258b89685144438627a275f55b216b?darkschemeovr=0&FORM=GUH2CR"
     }
   },
   {
@@ -169,14 +169,14 @@ export default [
     "name": "Kale",
     "shortDescription": "Legendary Saiyan",
     "description": "Kale is a Saiyan from Universe 6 who becomes a Legendary Super Saiyan, possessing immense power.",
-    "imageUrl": "url-to-3d-image-kale.jpg",
+    "imageUrl": "../images/13.kale.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Sadala",
       "mainField": "Combat"
     },
     "extraInfo": {
-      "imageSource": "https://odetta.ai/blogs/margaret-hamilton-the-first-software-engineer"
+      "imageSource": "https://www.bing.com/images/create/imagen-tridimensional-de-kale2c-tambic3a9n-conocida-co/65258ecb38be4656ba272e8b91d997fe?id=BziiVji3Y%2fdn2388TqY1oA%3d%3d&view=detailv2&idpp=genimg&darkschemeovr=0&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
   {
@@ -184,7 +184,7 @@ export default [
     "name": "Caulifla",
     "shortDescription": "Saiyan Warrior",
     "description": "Caulifla is a Saiyan from Universe 6 andthe sister of Renso, known for her exceptional combat abilities.",
-    "imageUrl": "url-to-3d-image-caulifla.jpg",
+    "imageUrl": "../images/1.Vados.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Sadala",
@@ -274,7 +274,7 @@ export default [
     "name": "Vados",
     "shortDescription": "Angel Attendant",
     "description": "Vados is Whis's older sister and the attendant to Champa, the God of Destruction of Universe 6.",
-    "imageUrl": "url-to-3d-image-vados.jpg",
+    "imageUrl": "../images/1.Vados.jpg.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Unknown",
@@ -349,14 +349,14 @@ export default [
     "name": "Bulla",
     "shortDescription": "Daughter of Vegeta and Bulma",
     "description": "Bulla is the daughter of Vegeta and Bulma, appearing as a young child in Dragon Ball GT.",
-    "imageUrl": "url-to-3d-image-bulla.jpg",
+    "imageUrl": "../images/10.bulla.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Earth",
       "mainField": "Family"
     },
     "extraInfo": {
-      "imageSource": "https://www.esa.int/ESA_Multimedia/Images/2020/07/Artistic_illustration_of_Rosalind_Franklin"
+      "imageSource": "https://www.bing.com/images/create/imagen-en-formato-3d-de-la-segunda-hija-mujer-de-v/6525871fc2684275899ac4613376dfd6?id=Qvc5pfhNj%2bEPV21jdrzKkQ%3d%3d&view=detailv2&idpp=genimg&darkschemeovr=0&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   }
 ];

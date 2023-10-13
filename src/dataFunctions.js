@@ -7,3 +7,7 @@ export const example = () => {
 export const anotherExample = () => {
   return [];
 };
+
+
+//supongo que es como el analyzer
+
