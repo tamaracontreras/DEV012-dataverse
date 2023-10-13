@@ -4,7 +4,6 @@ export default [
     "name": "Android 18",
     "shortDescription": "Cyborg Warrior",
     "description": "Android 18 is a skilled martial artist and one of the androids created by Dr. Gero to kill Goku.",
-    "imageUrl": "../images/2.Androide18.jpg",
     "imageUrl": "https://th.bing.com/th/id/OIG.Dav5Iv6rENBcqTcnspoM?pid=ImgGn",
     "facts": {
       "yearOfBirth": null,
