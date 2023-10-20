@@ -1,378 +1,391 @@
 export default [
   {
-    "id": "ada-lovelace",
-    "name": "Ada Lovelace",
-    "shortDescription": "Pionera en la programación, primera programadora de la historia.",
-    "description": "Una visionaria matemática británica del siglo XIX, es aclamada como la primera programadora de la historia. Su colaboración con Charles Babbage en la creación de la Máquina Analítica la llevó a desarrollar algoritmos, incluyendo el famoso \"algoritmo de Bernoulli\", destinados a ser procesados por una máquina. Su visión pionera la convirtió en una figura fundamental en la informática y la inteligencia artificial. Lovelace demostró que las computadoras podían ir más allá de simples cálculos matemáticos, anticipando un mundo donde la programación sería esencial en la resolución de problemas complejos, dejando una huella imborrable en la ciencia y la tecnología.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/ada-lovelace.jpg",
+
+    "id": "android-18", // 1
+    "name": "Android 18",
+    "shortDescription": "Cyborg Warrior",
+    "description": "Android 18 is a skilled martial artist and one of the androids created by Dr. Gero to kill Goku.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.Dav5Iv6rENBcqTcnspoM?pid=ImgGn",
     "facts": {
-      "yearOfBirth": "1815",
-      "yearOfDeath": "1852",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Ciencia de la Computación"
+      "yearOfBirth": null,
+      "placeOfBirth": "Unknown",
+      "mainField": "Combat"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/genera-una-imagen-de-ada-lovelace2c-la-primera-prog/650a1eff8ff04b88833d5cdef0309441"
+      "gender": "Female",
+      "imageSource": "https://www.bing.com/images/create/androide182c-dragon-ball2c-battle2c-front-2c-3d/6525c71ebfb24d9290521bab7277cb93?id=wn4KHs%2bakteVAa%2bCMU1Oig%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+    } 
+  },
+  {
+    "id": "bulma-mom", // 2
+    "name": "Bulma's Mom",
+    "shortDescription": "Supportive Mother",
+    "description": "Bulma's mother is a caring and supportive figure in Bulma's life, providing guidance and encouragement.",
+    "imageUrl":" https://th.bing.com/th/id/OIG.MQ8N9WWarFrzYdiP6o.L?pid=ImgGn",
+    "facts": {
+      "yearOfBirth": null,
+      "placeOfBirth": "Unknown",
+      "mainField": "Family"
+    },
+    "extraInfo": {
+      "gender": "Female",
+      "imageSource": "https://www.bing.com/images/create/madre-de-bulma2c-dragon-ball2cescena-hogarec3b1a2c-front/6525d164d4fd41969dc86ca9a666eb52?id=44%2b7obgjTd3iiDFc3mOTyQ%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
   {
-    "id": "emmy-noether",
-    "name": "Emmy Noether",
-    "shortDescription": "Matemática destacada, teorema fundamental en álgebra abstracta.",
-    "description": "Una brillante matemática alemana, revolucionó la física teórica con sus contribuciones al teorema de conservación de la energía y el teorema de Noether, fundamentales en la teoría de la relatividad y la mecánica cuántica. A pesar de los obstáculos que enfrentó como mujer en la academia, sus investigaciones en álgebra abstracta y teoría de grupos son fundamentales en la física moderna. Su capacidad para unificar conceptos matemáticos y físicos marcó un hito en la historia de la ciencia, allanando el camino para futuras generaciones de científicas.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/emmy-noether.jpg",
+    "id": "vegeta", //3
+    "name": "Vegeta",
+    "shortDescription": "Proud Saiyan prince and rival of Goku",
+    "description": "Vegeta is the proud Saiyan prince and a powerful warrior in the Dragon Ball series. Initially introduced as an antagonist, he later becomes one of Earth's greatest defenders and a key ally.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.Z..46KRYEDEJEYhjfnNP?pid=ImgGn",
     "facts": {
-      "yearOfBirth": "1882",
-      "yearOfDeath": "1935",
-      "birthPlace": "Erlangen, Alemania",
-      "mainField": "Matemáticas"
+      "yearOfBirth": null,
+      "placeOfBirth": "Vegeta",
+      "mainField": "Saiyan Prince and Warrior"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-an-image-of-of-a-german-woman2c-a-pioneering/6510ddb1e8254b928b8f8f1d5e95fea4"
+      "gender": "Male",
+      "imageSource": "https://www.bing.com/images/create/vegeta-2c-adolecente2c--volando-de-dc3ada-2c-3d/65287417f5de4df08fdde203bf595c91?id=WqluQ4h9Mi5mnJIcghmrrw%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
     }
   },
   {
-    "id": "hypatia-de-alejandria",
-    "name": "Hypatia de Alejandría",
-    "shortDescription": "Matemática y filósofa en la antigua Alejandría.",
-    "description": "Filósofa y matemática en la antigua Alejandría, desafió las normas de género de su época al destacar en una sociedad dominada por hombres. Su legado incluye importantes contribuciones a la geometría y la astronomía, así como su destacado papel como maestra y defensora del conocimiento en una época de agitación política. Hypatia demostró que las mujeres podían sobresalir en campos intelectuales y su valentía al mantener sus creencias filosóficas la convierte en un símbolo de resistencia y sabiduría en la historia de la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/hypatia-de-alejandria.jpg",
+    "id": "pan", // 4
+    "name": "Pan",
+    "shortDescription": "Granddaughter of Goku",
+    "description": "Pan is the granddaughter of Goku and Chi-Chi, appearing in Dragon Ball GT as a young and adventurous Saiyan.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.MshG9VLcvVCzbpgkBebm?pid=ImgGn",
     "facts": {
-      "yearOfBirth": "circa 360",
-      "yearOfDeath": "415",
-      "birthPlace": "Alejandría, Egipto",
-      "mainField": "Matemáticas, Filosofía"
+      "yearOfBirth": 779,
+      "placeOfBirth": "Earth",
+      "mainField": "Adventure"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-a-vivid-digital-artwork-or-painting-that-de/6510df0ebe1a4807af22175452761e1a"
+      "gender": "Female",
+      "imageSource": "https://www.bing.com/images/create/pan2c----granddaughter-of-goku-3d/6525d79ea4b2474ab2db9c61f79bb975?id=99X2CxVW6H4ZpoZm%2f%2f0vdA%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
     }
   },
   {
-    "id": "marjorie-lee-browne",
-    "name": "Marjorie Lee Browne",
-    "shortDescription": "Matemática, contribuyó a la teoría de números.",
-    "description": "Matemática estadounidense, destacó en una época en la que las mujeres afroamericanas enfrentaban múltiples barreras en la educación superior. No solo obtuvo su doctorado en matemáticas, sino que también se convirtió en una destacada educadora, promoviendo la diversidad en las ciencias matemáticas y desafiando la discriminación racial y de género. Su compromiso con la educación y su capacidad para inspirar a futuras generaciones la convierten en un modelo a seguir para las mujeres en la ciencia, dejando una huella perdurable en la historia académica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marjorie-lee-browne.jpg",
+    "id": "android-21", // 5
+    "name": "Android 21",
+    "shortDescription": "Android Scientist",
+    "description": "Android 21 is an original character in the Dragon Ball universe, known for her scientific expertise.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.aei.b7RbfT9ilDlT7MC.?pid=ImgGn",
     "facts": {
-      "yearOfBirth": "1914",
-      "yearOfDeath": "1979",
-      "birthPlace": "Memphis, Estados Unidos",
-      "mainField": "Matemáticas"
+      "yearOfBirth": null,
+      "placeOfBirth": "Unknown",
+      "mainField": "Science"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/design-an-inspiring-and-historically-accurate-imag/6510df7e7bb745f69d67f695441607a8"
+      "gender": "Female",
+      "imageSource": "https://www.bing.com/images/create/android-212c-3d2c-dragon-ball/6526940fcbfe463d8971fc86b7868f6b?id=ObDrIbDI8G9qcuARyqA7Cw%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+  },
+},
+  {
+    "id": "Miguel", // 6
+    "name": "Miguel",
+    "shortDescription": "Supportive Parent",
+    "description": "Videl's mother is a supportive figure in Videl's life, encouraging her daughter's martial arts pursuits.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.laKkmS1qLiDPS_d6WIER?pid=ImgGn",
+    "facts": {
+      "yearOfBirth": null,
+      "placeOfBirth": "Unknown",
+      "mainField": "Family"
+    },
+    "extraInfo": {
+      "gender": "Female",
+      "imageSource": "https://www.bing.com/images/create/videl-mom2c-digital-art2c-3d-render/6527feca9a0041cf9fcdfcd252992c7a?id=2JMrx%2fiTRbN4VHRntXdB0A%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+    }
+  },
+  
+    {
+    "id": "piccolo", //7
+    "name": "Piccolo",
+    "shortDescription": "Namekian warrior and mentor to Gohan",
+    "description": "Piccolo is a Namekian warrior in the Dragon Ball series. Originally a formidable enemy, he later becomes a mentor and protector, especially to Gohan, and plays a crucial role in defending Earth.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.pR.cUQLNANnwRLEGD9Cx?pid=ImgGn",
+    "facts": {
+      "yearOfBirth": null,
+      "placeOfBirth": "Namek",
+      "mainField": "Martial Arts and Mentorship"
+    },
+    "extraInfo": {
+      "gender": "Male",
+      "imageSource": "https://www.bing.com/images/create/piccolo-daimac58d-2c--tono-de-piel-verde2c--destruyendo/652872fbf6414c6ba3a23d7eb7b3183f?id=PWOdkF9UB8a4N6fSw6mrVg%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
     }
   },
   {
-    "id": "shakuntala-devi",
-    "name": "Shakuntala Devi",
-    "shortDescription": "Matemática prodigio, conocida como la 'Calculadora Humana'.",
-    "description": "Conocida como \"la bruja de las matemáticas\" de la India, dejó una marca indeleble en el mundo de los números. Su capacidad mental asombrosa la llevó a resolver complejos cálculos matemáticos mentalmente en cuestión de segundos, estableciendo récords mundiales. Además de su talento innato, Devi promovió activamente la educación matemática y luchó por la igualdad de género en un país donde las mujeres enfrentaban desafíos en la ciencia y la educación. Su legado destaca el poder de la mente humana y la importancia de la igualdad de oportunidades en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/shakuntala-devi.jpg",
+    "id": "videl", // 8
+    "name": "Videl",
+    "shortDescription": "Skilled Martial Artist",
+    "description": "Videl is the daughter of Mr. Satan and the wife of Gohan. She is a skilled martial artist.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.aR_iuxFvX_mVV0SE3fvq?pid=ImgGn",
     "facts": {
-      "yearOfBirth": "1929",
-      "yearOfDeath": "2013",
-      "birthPlace": "Bangalore, India",
-      "mainField": "Matemáticas"
+      "yearOfBirth": 756,
+      "placeOfBirth": "Earth",
+      "mainField": "Martial Arts"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/indian-woman-writing-math-problems-in-a-blackbard-/6510e19f3db54e14b365b7e8dc5045f6"
+      "gender": "Female",
+      "imageSource": "https://www.bing.com/images/create/videl--cabello-negro-largo-3d/65281c23726342cda8da0706fd60f540?id=WxDz9nMa7NVc90PfMJVg1g%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
   {
-    "id": "sofia-kovalevskaya",
-    "name": "Sofia Kovalevskaya",
-    "shortDescription": "Matemática y escritora, contribuyó a la teoría de funciones.",
-    "description": "Matemática rusa del siglo XIX, dejó una marca indeleble en la ciencia del siglo XIX al desafiar las barreras de género. Como matemática rusa, superó las restricciones sociales de su época para convertirse en la primera mujer en obtener un doctorado en matemáticas en Europa. Sus contribuciones a la teoría de las ecuaciones diferenciales y la mecánica revolucionaron la disciplina, abriendo nuevas perspectivas en el análisis matemático. Su destacada membresía en la Academia de Ciencias de Suecia marcó un hito en la historia de las mujeres en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/sofia-kovalevskaya.jpg",
+    "id": "towa", // 9
+    "name": "Towa",
+    "shortDescription": "Dark Sorceress",
+    "description": "Towa is a dark sorceress and a key antagonist in Dragon Ball Xenoverse, manipulating time for her nefarious purposes.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.Xm_vJ122IFM2yWtbPsLg?pid=ImgGn",
     "facts": {
-      "yearOfBirth": "1850",
-      "yearOfDeath": "1891",
-      "birthPlace": "Moscú, Rusia",
-      "mainField": "Matemáticas"
+      "yearOfBirth": null,
+      "placeOfBirth": "Demon Realm",
+      "mainField": "Dark Arts"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/indian-woman-writing-math-problems-in-a-blackbard-/6510e19f3db54e14b365b7e8dc5045f6"
+      "gender": "Female",
+      "imageSource": "https://www.bing.com/images/create/towa2c-demond-3d/65281e34c10542f4ab828ddbed1743e2?id=tnRToVC5my48UJ7hdOLSaw%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
   {
-    "id": "yoko-shimomura",
-    "name": "Yoko Shimomura",
-    "shortDescription": "Compositora de música, destacada en la industria de los videojuegos.",
-    "description": "Compositora japonesa, es una figura destacada en la ciencia de la música y el arte sonoro. Aunque no se dedica a la ciencia en el sentido tradicional, su trabajo en la composición musical ha requerido un profundo entendimiento de la teoría musical y la tecnología de audio. Ha contribuido de manera significativa a la industria de los videojuegos, componiendo icónicas bandas sonoras que han enriquecido la experiencia de juego. Su éxito en un campo donde las mujeres estaban subrepresentadas la convierte en un modelo a seguir, incluso en campos no convencionales como la composición musical.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/yoko-shimomura.jpg",
+    "id": "trunks", //10
+    "name": "Trunks",
+    "shortDescription": "Half-Saiyan time traveler and skilled warrior",
+    "description": "Trunks is a half-Saiyan, half-Human character in the Dragon Ball series. He is a skilled warrior and a time traveler, playing a crucial role in facing various threats to the Earth and its timeline.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.92YllPMu49c3Iceltk1P?pid=ImgGn",
     "facts": {
-      "yearOfBirth": "1967",
-      "birthPlace": "Hyogo, Japón",
-      "mainField": "Composición Musical, Video Juegos"
+      "yearOfBirth": 766,
+      "placeOfBirth": "Earth",
+      "mainField": "Time Travel and Swordsmanship"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/yoko-shimomura-making-music-for-a-video-game-in-19/6510e40dd1eb45d0906e8c1f4bb601d3"
+      "gender": "Male",
+      "imageSource": "https://www.bing.com/images/create/trunks2c--2cdragon-ball-z2c-3d/652876886aac4ae6b6dfbca6a7e508d0?id=0bKJiNrgsNrxertyjdEU7Q%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
     }
   },
   {
-    "id": "maryam-mirzakhani",
-    "name": "Maryam Mirzakhani",
-    "shortDescription": "Matemática, ganadora del Premio Fields.",
-    "description": "Matemática iraní, hizo historia al convertirse en la primera mujer en ganar la Medalla Fields, el premio más prestigioso en matemáticas. Sus investigaciones en la geometría de superficies y la teoría de las superficies de Riemann han tenido un impacto duradero en la matemática pura. A lo largo de su carrera, Mirzakhani inspiró a muchas mujeres a perseguir carreras en ciencia y matemáticas, derribando las barreras de género. Su enfoque innovador y su capacidad para resolver problemas complejos la convierten en un modelo a seguir para la comunidad científica y en un símbolo de la excelencia matemática.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/maryam-mirzakhani.jpg",
+    "id": "brianne-de-chateau", // 11
+    "name": "Brianne de Chateau",
+    "shortDescription": "Magical Girl",
+    "description": "Brianne de Chateau, also known as Ribrianne, is a warrior from Universe 2 who transforms into a powerful magical girl.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.dwasDP1v2UmjT9QH6AWE?pid=ImgGn",
     "facts": {
-      "yearOfBirth": "1977",
-      "yearOfDeath": "2017",
-      "birthPlace": "Teherán, Irán",
-      "mainField": "Matemáticas"
+      "yearOfBirth": null,
+      "placeOfBirth": "Unknown",
+      "mainField": "Magical Combat"
     },
     "extraInfo": {
-      "imageSource": "https://chalkdustmagazine.com/features/mathematics-maryam-mirzakhani/"
+      "gender": "Female",
+      "imageSource": "https://www.bing.com/images/create/brianne-de-chateau-2c-dragon-ball2c-3d/65284f1e54df4d6facd9bc85d6ac5ada?id=n9u185Midd1PDQo4QDpJmg%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
     }
   },
   {
-    "id": "adele-goldberg",
-    "name": "Adele Goldberg",
-    "shortDescription": "Informática pionera, co-creadora del lenguaje de programación Smalltalk.",
-    "description": "Informática estadounidense reconocida por su influyente trabajo en la investigación y desarrollo de la programación orientada a objetos. Su contribución más destacada es la creación del lenguaje de programación Smalltalk, que revolucionó la forma en que se desarrollan software y sistemas informáticos. Goldberg ha sido una defensora incansable de la usabilidad y la accesibilidad en la informática, asegurando que las aplicaciones informáticas sean más amigables para los usuarios. Su trabajo ha allanado el camino para una programación más intuitiva y eficiente, y su legado perdura en la industria de la tecnología.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/adele-goldberg.jpg",
+    "id": "kale", // 12
+    "name": "Kale",
+    "shortDescription": "Legendary Saiyan",
+    "description": "Kale is a Saiyan from Universe 6 who becomes a Legendary Super Saiyan, possessing immense power.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.ukzdln2Cg225H1k8AyHF?pid=ImgGn",
     "facts": {
-      "yearOfBirth": "1945",
-      "birthPlace": "Chicago, Estados Unidos",
-      "mainField": "Ciencias de la Computación"
+      "yearOfBirth": null,
+      "placeOfBirth": "Sadala",
+      "mainField": "Combat"
     },
     "extraInfo": {
-      "imageSource": "https://pionerasinformaticas.ujaen.es/en/computer-women-pioneers/adele-goldberg-en"
+      "gender": "Female",
+      "imageSource": "https://www.bing.com/images/create/kale-supersaiyana-devastadora2c-3d/652851d0a8c1439a8e8cbb11d0881ba4?id=JSMEDWyg7OxSF5CUETQ4xA%3D%3D&view=detailv2&idpp=genimg&form=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
   {
-    "id": "barbara-liskov",
-    "name": "Barbara Liskov",
-    "shortDescription": "Científica de la computación, pionera en programación orientada a objetos.",
-    "description": "Pionera de la informática, es conocida por su trabajo en la programación y la arquitectura de sistemas distribuidos. Fue la primera mujer en obtener un doctorado en ciencias de la computación en el Instituto de Tecnología de Stanford y desarrolló el lenguaje de programación CLU, que estableció fundamentos para la programación orientada a objetos. Liskov ha dejado una marca indeleble en la industria de la tecnología al liderar avances en sistemas de almacenamiento y seguridad informática. Su enfoque en la fiabilidad y la robustez ha influido en el diseño de sistemas críticos en todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/barbara-liskov.jpg",
+    "id": "gohan", //13
+    "name": "Gohan",
+    "shortDescription": "Saiyan-Human hybrid and scholar warrior",
+    "description": "Gohan is a Saiyan-Human hybrid in the Dragon Ball series. Initially introduced as a child, he grows to become a powerful scholar warrior, balancing his intellect with formidable combat skills.",
+    "imageUrl": "https://th.bing.com/th/id/OIG..dKkLkd4s7fs4r842OM8?pid=ImgGn",
     "facts": {
-      "yearOfBirth": "1939",
-      "birthPlace": "Los Angeles, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
+      "yearOfBirth": 757,
+      "placeOfBirth": "Earth",
+      "mainField": "Scholarship and Martial Arts"
     },
     "extraInfo": {
-      "imageSource": "https://medium.com/a-computer-of-ones-own/barbara-liskov-inventor-of-abstract-data-types-9f8908fdcf86"
+      "gender": "Male",
+      "imageSource": "https://www.bing.com/images/create/gohan-2cdragon-ball-z2c-3d/652877a002644e3a80336c1b6343a319?id=rHRwFakBj5%2bIwdE%2b8V3ZcA%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
     }
   },
   {
-    "id": "grace-hopper",
-    "name": "Grace Hopper",
-    "shortDescription": "Científica de la computación, creadora del primer compilador.",
-    "description": "Una de las pioneras de la informática, es famosa por su contribución al desarrollo del primer compilador y al lenguaje de programación COBOL. Además, desafió los estereotipos de género en la década de 1940 al unirse a la Marina de los Estados Unidos y convertirse en la primera programadora de la computadora Harvard Mark I. Su legado abarca la creación de conceptos cruciales como la \"depuración de software\" y su influencia en el desarrollo de la informática moderna, estableciendo estándares para la programación de alto nivel y la innovación tecnológica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/grace-hopper.jpg",
+    "id": "zangya", // 14
+    "name": "Zangya",
+    "shortDescription": "Space Pirate",
+    "description": "Zangya is a space pirate and a character from the Dragon Ball Z movie, Bojack Unbound.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.ruTGe7Gzkjzqu4oYD.fA?pid=ImgGn",
     "facts": {
-      "yearOfBirth": "1906",
-      "yearOfDeath": "1992",
-      "birthPlace": "Nueva York, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
+      "yearOfBirth": null,
+      "placeOfBirth": "Unknown",
+      "mainField": "Piracy"
     },
     "extraInfo": {
-      "imageSource": "https://photos.com/featured/grace-hopper-with-early-computer-bettmann.html"
-    }
-  },
-  {
-    "id": "margaret-hamilton",
-    "name": "Margaret Hamilton",
-    "shortDescription": "Científica de la computación, lideró desarrollo de software para Apollo 11.",
-    "description": "Destacada científica de la computación que desempeñó un papel fundamental en el programa Apollo de la NASA. Fue directora de la División de Ingeniería de Software en el Laboratorio de Instrumentación del MIT, donde desarrolló el concepto de \"ingeniería de software\". Su liderazgo en el desarrollo del software de vuelo para las misiones Apollo fue fundamental para el éxito de la llegada del hombre a la Luna. Hamilton es un ejemplo de cómo la tecnología y la ciencia pueden alcanzar logros extraordinarios cuando se combinan con un enfoque innovador y una visión audaz.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/margaret-hamilton.jpg",
-    "facts": {
-      "yearOfBirth": "1936",
-      "birthPlace": "Paoli, Indiana, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://odetta.ai/blogs/margaret-hamilton-the-first-software-engineer"
-    }
-  },
-  {
-    "id": "radia-perlman",
-    "name": "Radia Perlman",
-    "shortDescription": "Ingeniera de redes, inventora del algoritmo Spanning Tree.",
-    "description": "Científica de la computación estadounidense, ha dejado una marca indeleble en el mundo de las redes informáticas y la seguridad. Conocida como \"la madre de Internet\", su invención del algoritmo Spanning Tree Protocol (STP) revolucionó la conectividad de redes y sentó las bases para la infraestructura de Internet moderna. A pesar de operar en un campo dominado por hombres, Perlman ha demostrado que las mujeres pueden liderar avances tecnológicos vitales. Su compromiso con la resiliencia de las redes y la ciberseguridad ha influido en la estabilidad y confiabilidad de la comunicación en línea.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/radia-perlman.jpg",
-    "facts": {
-      "yearOfBirth": "1951",
-      "birthPlace": "Portsmouth, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://hackaday.com/2018/05/29/spanning-the-tree-dr-radia-perlman-untangling-networks/"
-    }
-  },
-  {
-    "id": "shafi-goldwasser",
-    "name": "Shafi Goldwasser",
-    "shortDescription": "Científica de la computación, ganadora del Premio Turing.",
-    "description": "Es una destacada criptógrafa y científica de la computación que ha contribuido significativamente a la teoría de la computación y la seguridad de la información. Su trabajo en criptografía de probabilidad y complejidad computacional ha sentado las bases para la seguridad en línea y la privacidad de datos en un mundo cada vez más digitalizado. Goldwasser es un ejemplo de cómo la ciencia de la computación puede abordar desafíos contemporáneos y proteger la información en la era de la información.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/shafi-goldwasser.jpg",
-    "facts": {
-      "yearOfBirth": "1958",
-      "birthPlace": "Nueva York, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.jahresbericht2019.unibe.ch/successes_2019/einstein_lectures/index_eng.html"
-    }
-  },
-  {
-    "id": "chien-shiung-wu",
-    "name": "Chien-Shiung Wu",
-    "shortDescription": "Física experimental, contribuyó a la física nuclear.",
-    "description": "Física experimental de origen chino, desafiando los prejuicios de género y nacionalidad, realizó experimentos fundamentales en física de partículas y contribuyó significativamente a la comprensión de la desintegración beta. Su famoso experimento \"Wu\" refutó la paridad en la física de partículas, lo que cambió la forma en que los científicos comprenden las fuerzas fundamentales de la naturaleza. Wu demostró que el talento y la perseverancia pueden superar cualquier barrera, y su legado sigue siendo un faro de inspiración para científicas en todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/chien-shiung-wu.jpg",
-    "facts": {
-      "yearOfBirth": "1912",
-      "yearOfDeath": "1997",
-      "birthPlace": "Liuhe, Taicang, China",
-      "mainField": "Física"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.thoughtco.com/chien-shiung-wu-biography-3530366"
-    }
-  },
-  {
-    "id": "hedy-lamarr",
-    "name": "Hedy Lamarr",
-    "shortDescription": "Actriz e inventora, contribuyó al desarrollo de la tecnología de espectro ensanchado.",
-    "description": "Actriz austroamericana y científica, fue una mente brillante en la intersección de la tecnología y el entretenimiento. Junto con el compositor George Antheil, inventó un sistema de comunicación secreta durante la Segunda Guerra Mundial que sentó las bases para la tecnología de espectro ensanchado y la comunicación inalámbrica moderna. Lamarr demostró que las mujeres pueden destacar tanto en el cine como en la ciencia, y su legado como inventora ha sido fundamental para el desarrollo de la tecnología de comunicación inalámbrica que usamos en la actualidad.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/hedy-lamarr.jpg",
-    "facts": {
-      "yearOfBirth": "1914",
-      "yearOfDeath": "2000",
-      "birthPlace": "Viena, Austria",
-      "mainField": "Actuación, Física"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.sparkfun.com/news/6147"
-    }
-  },
-  {
-    "id": "maria-goeppert-mayer",
-    "name": "Maria Goeppert Mayer",
-    "shortDescription": "Física teórica, ganadora del Premio Nobel de Física.",
-    "description": "Física teórica alemana-estadounidense, dejó una profunda huella en la física nuclear y la mecánica cuántica. Fue la segunda mujer en recibir el Premio Nobel de Física y su trabajo pionero en la estructura de capas nucleares revolucionó nuestra comprensión de los núcleos atómicos. A pesar de las barreras de género en la academia, su dedicación y talento la llevaron a contribuir significativamente a la teoría nuclear, abriendo el camino para futuras investigadoras en un campo dominado por hombres. Maria Goeppert Mayer es un ejemplo inspirador de excelencia científica y perseverancia en la búsqueda del conocimiento.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/maria-goeppert-mayer.jpg",
-    "facts": {
-      "yearOfBirth": "1906",
-      "yearOfDeath": "1972",
-      "birthPlace": "Kattowitz, Alemania",
-      "mainField": "Física"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.wsemexhibit.org/maria-goeppert-mayer.html"
-    }
-  },
-  {
-    "id": "lise-meitner",
-    "name": "Lise Meitner",
-    "shortDescription": "Física nuclear, contribuyó a la teoría de la fisión nuclear.",
-    "description": "Física austriaca-sueca, dejó un legado imborrable en la física nuclear y la radioquímica. A pesar de enfrentar obstáculos de género en una era dominada por hombres, colaboró con Otto Hahn en el descubrimiento de la fisión nuclear, un avance revolucionario. Aunque no compartió el Premio Nobel por este logro, su contribución fue crucial para comprender la energía nuclear y la física de partículas. Su determinación y pasión por la ciencia han inspirado a generaciones de científicas. Lise Meitner es un símbolo perdurable de la perseverancia femenina y el impacto duradero que las mujeres pueden tener en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/lise-meitner.jpg",
-    "facts": {
-      "yearOfBirth": "1878",
-      "yearOfDeath": "1968",
-      "birthPlace": "Viena, Austria",
-      "mainField": "Física"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/lise-meitner-in-nuclear-physics-lab-in-19502c-retro/651196e6bbcb4009950e9955c2199760"
-    }
-  },
-  {
-    "id": "sau-lan-wu",
-    "name": "Sau Lan Wu",
-    "shortDescription": "Física de partículas, contribuyó a experimentos clave en física de alta energía.",
-    "description": "Física experimental sinoamericana, ha sido una fuerza motriz en la física de partículas. Destacó en experimentos en el CERN y lideró investigaciones cruciales, como el descubrimiento del quark c, que expandieron nuestro entendimiento de la estructura fundamental de la materia. Wu superó desafíos en una disciplina dominada por hombres y ha sido un faro de inspiración para científicas de todo el mundo. Sau Lan Wu es un ejemplo de excelencia científica y de cómo las mujeres pueden dejar huella en la investigación de vanguardia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/sau-lan-wu.jpg",
-    "facts": {
-      "yearOfBirth": "1940",
-      "birthPlace": "Hong Kong, China",
-      "mainField": "Física de Partículas"
-    },
-    "extraInfo": {
-      "imageSource": "https://repository.aip.org/islandora/object/nbla%3A315195"
-    }
-  },
-  {
-    "id": "jocelyn-bell-burnell",
-    "name": "Jocelyn Bell Burnell",
-    "shortDescription": "Astrónoma y astrofísica, co-descubridora de los púlsares.",
-    "description": "Astrofísica británica, es una figura extraordinaria en la ciencia. Durante su doctorado, hizo un descubrimiento revolucionario al detectar los primeros púlsares, estrellas de neutrones altamente magnetizadas que emiten pulsos regulares de radiación. A pesar de que su asesor recibió el Premio Nobel por este descubrimiento, Bell Burnell se ha convertido en un símbolo de perseverancia y contribución de las mujeres a la astronomía. Su carrera distinguida y su activismo en favor de la diversidad de género en la ciencia han inspirado a generaciones futuras de científicas. Jocelyn Bell Burnell es un ejemplo de valentía y excelencia científica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/jocelyn-bell-burnell.jpg",
-    "facts": {
-      "yearOfBirth": "1943",
-      "birthPlace": "Belfast, Reino Unido",
-      "mainField": "Astronomía, Astrofísica"
-    },
-    "extraInfo": {
-      "imageSource": "https://womeninscienceweadmire.icfo.eu/wiswa-2/jocelyn-bell/"
-    }
-  },
-  {
-    "id": "dorothy-crowfoot-hodgkin",
-    "name": "Dorothy Crowfoot Hodgkin",
-    "shortDescription": "Química, ganadora del Premio Nobel de Química.",
-    "description": "Química británica, es una figura icónica en la ciencia que superó las barreras de género de su época. Su trabajo revolucionario en la cristalografía de rayos X permitió determinar la estructura de importantes biomoléculas, como la penicilina, la vitamina B12 y la insulina. Fue galardonada con el Premio Nobel de Química en 1964, siendo la tercera mujer en recibir este prestigioso reconocimiento. Hodgkin no solo fue una científica excepcional, sino también una defensora de la igualdad de género en la ciencia, allanando el camino para futuras generaciones de científicas y dejando un legado duradero en la investigación y la equidad.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/dorothy-crowfoot-hodgkin.jpg",
-    "facts": {
-      "yearOfBirth": "1910",
-      "yearOfDeath": "1994",
-      "birthPlace": "El Cairo, Egipto / Shipston-on-Stour, Reino Unido",
-      "mainField": "Química"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.some.ox.ac.uk/news/jan-royall-why-we-must-champion-dorothy-hodgkin-for-the-50-note/"
-    }
-  },
-  {
-    "id": "marie-curie",
-    "name": "Marie Curie",
-    "shortDescription": "Física y química, ganadora de dos Premios Nobel.",
-    "description": "física y química de origen polaco y nacionalizada francesa, es una de las figuras más icónicas en la historia de la ciencia. Ganadora de dos premios Nobel (Física en 1903 y Química en 1911), Curie realizó investigaciones fundamentales sobre la radiactividad y el descubrimiento de los elementos radio y polonio. Su dedicación y valentía en la investigación científica, a pesar de los desafíos de la discriminación de género y los riesgos de la radiación, la convierten en un modelo a seguir para científicas de todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marie-curie.jpg",
-    "facts": {
-      "yearOfBirth": "1867",
-      "yearOfDeath": "1934",
-      "birthPlace": "Varsovia, Polonia",
-      "mainField": "Física y Química"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.historyextra.com/period/first-world-war/life-of-the-week-marie-curie/"
-    }
-  },
-  {
-    "id": "marjory-stephenson",
-    "name": "Marjory Stephenson",
-    "shortDescription": "Microbióloga y bioquímica, investigó en enzimología.",
-    "description": "Bioquímica británica, brilló como científica en una época en la que las mujeres enfrentaban obstáculos muy significativos en la investigación científica. Su trabajo pionero en microbiología, enzimología y bioquímica contribuyó al entendimiento de procesos fundamentales en la vida. Fue una de las primeras mujeres en ser elegida miembro de la Royal Society, un reconocimiento a su destacada contribución a la ciencia. Además, fue una mentora y defensora de las mujeres en la ciencia, inspirando y allanando el camino para futuras generaciones.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marjory-stephenson.jpg",
-    "facts": {
-      "yearOfBirth": "1885",
-      "yearOfDeath": "1948",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Química, Microbiología, Bioquímica"
-    },
-    "extraInfo": {
-      "imageSource": "https://microbiologysociety.org/grants-prizes/all-prizes-and-competitions-/prize-lectures/marjory-stephenson-prize-lecture/marjory-stephenson-a-short-history.html"
-    }
-  },
-  {
-    "id": "rosalind-franklin",
-    "name": "Rosalind Franklin",
-    "shortDescription": "Química y cristalógrafa, contribuyó a la comprensión de la estructura del ADN.",
-    "description": "Química y cristalógrafa británica, destacó en un campo dominado por hombres y su contribución a la ciencia es innegable. Sus investigaciones pioneras en la cristalografía de rayos X fueron fundamentales para revelar la estructura del ADN en forma de doble hélice, un hito crucial en la biología molecular. A pesar de que su trabajo inicial fue subestimado, su determinación y habilidad científica allanaron el camino para futuros avances en genética y biología. Franklin es un ejemplo inspirador de cómo las mujeres pueden sobresalir en la ciencia, dejando un legado duradero en la investigación y la igualdad de género.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/rosalind-franklin.jpg",
-    "facts": {
-      "yearOfBirth": "1920",
-      "yearOfDeath": "1958",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Química, Cristalografía"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.esa.int/ESA_Multimedia/Images/2020/07/Artistic_illustration_of_Rosalind_Franklin"
-    }
+      "gender": "Female",
+      "imageSource": "https://www.bing.com/images/create/zangya-2chermosa-chica-de-cabello-anaranjado2cdragon/652878876f9f4071acdbf273d3f70da5?id=dCZ8hSEmOtF0wnUGoXdVNg%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+    
   }
-];
+},
+
+  {
+    "id": "krilin", //15
+    "name": "Krilin",
+    "shortDescription": "Skilled martial artist and Goku's best friend",
+    "description": "Krilin is a skilled martial artist and one of Goku's closest friends in the Dragon Ball series. Despite not being a Saiyan, he has faced numerous powerful foes and played a vital role in many battles to protect Earth.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.zXA4hFz3SIsYR6lY3WXQ?pid=ImgGn",
+    "facts": {
+      "yearOfBirth": 736,
+      "placeOfBirth": "Unknown",
+      "mainField": "Martial Arts and Courage"
+    },
+    "extraInfo": {
+      "gender": "Male",
+      "imageSource": "https://www.bing.com/images/create/krillin-2cdragon-ball-2c-3d/65287bfe78064d63908a8bab7ee8ef33?id=w5fRPsGF7%2bwvzfAlqSAS1Q%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+    }
+  },
+  {
+    "id": "shenlong", //16
+    "name": "Shenlong",
+    "shortDescription": "Eternal Dragon and granter of wishes",
+    "description": "Shenlong is the Eternal Dragon in the Dragon Ball series. When all seven Dragon Balls are gathered, he can be summoned to grant one wish. Shenlong is known for his immense power and role in the Dragon Ball lore.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.VVpBUot9dI_RFGFWNDkt?pid=ImgGn",
+    "facts": {
+      "yearOfBirth": "Eternal",
+      "placeOfBirth": "Earth",
+      "mainField": "Wish Granting"
+    },
+    "extraInfo": {
+      "gender": "Male",
+      "imageSource": "https://www.bing.com/images/create/shenlong2c-dragon-ball2c-3d/65287fb5c1d24727a8e3c2b435ab37e6?id=L3KMmMuiiY%2bnQMHrlf9zXQ%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+    }
+  },
+  {
+    "id": "tights", // 17
+    "name": "Tights",
+    "shortDescription": "Bulma's Sister",
+    "description": "Tights is Bulma's older sister, known for her intelligence and supportive role in Dragon Ball Super.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.Tw7qIG1itKxBFBWpjE9R?pid=ImgGn",
+    "facts": {
+      "yearOfBirth": null,
+      "placeOfBirth": "Unknown",
+      "mainField": "Support"
+    },
+    "extraInfo": {
+      "gender": "Female",
+      "imageSource": "https://www.bing.com/images/create/tights2c-la-hermana-de-bulma2c-en-una-escena-moderna/6524a33147d44de2a1b24e2952564a2f?id=cR6E4AkxXuWQhAXOgexBNg%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+    }
+  },
+  {
+    "id": "marron", // 18
+    "name": "Marron",
+    "shortDescription": "Daughter of Krillin and Android 18",
+    "description": "Marron is the daughter of Krillin and Android 18, appearing as a young child in Dragon Ball Z and Dragon Ball Super.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.aBnjp36702xz0Qp8b4fJ?pid=ImgGn",
+    "facts": {
+      "yearOfBirth": null,
+      "placeOfBirth": "Earth",
+      "mainField": "Family"
+    },
+    "extraInfo": {
+      "gender": "Female",
+      "imageSource": "https://www.bing.com/images/create/interpretacic3b3n-tridimensional-de-marron2c-la-hija-d/6524a23b3b4945959ad57d4b3f46f15d?id=I3TAKqrnmMEjpBufQHEQ6Q%3D%3D&view=detailv2&idpp=genimg&form=GCRIDP&ajaxhist=0&ajaxserp=0"    }
+  },
+  {
+    "id": "vados", // 19
+    "name": "Vados",
+    "shortDescription": "Angel Attendant",
+    "description": "Vados is Whis's older sister and the attendant to Champa, the God of Destruction of Universe 6.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.VWwLQOgGc6cqWzduIVoo?pid=ImgGn",
+    "facts": {
+      "yearOfBirth": null,
+      "placeOfBirth": "Unknown",
+      "mainField": "Angel Attendant"
+    },
+    "extraInfo": {
+      "gender": "Female",
+      "imageSource": "https://www.bing.com/images/create/vados2c-un-c3a1ngel-guc3ada2c-hermana-mayor-de-whis2cmujer2c/65285a2f8b554f3085873b0cdd307b9b?id=EiikUaf7iVSAB5Lv%2b9tyZw%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+    }
+  },
+  {
+    "id": "kale-berserk", // 20
+    "name": "Kale (Berserk)",
+    "shortDescription": "Rampaging Saiyan",
+    "description": "Kale, in her Berserk form, becomes an uncontrollable force with tremendous power and destructive potential.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.hWJ9g57Iipz_ESazAPFI?pid=ImgGn",
+    "facts": {
+      "yearOfBirth": null,
+      "placeOfBirth": "Sadala",
+      "mainField": "Combat"
+    },
+    "extraInfo": {
+      "gender": "Female",
+      "imageSource": "https://www.bing.com/images/create/interpretacic3b3n-tridimensional-de-kale-en-su-forma-/6524a02b9fee42cc8c251afe0a3104bb?id=0ExWW9PnVzYmfYEJ3dzJGw%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+    }
+  },
+  {
+    "id": "kusu-elder", // 21
+    "name": "Kusu (Elder)",
+    "shortDescription": "Wise Yardrat",
+    "description": "Kusu, in his elder form, is a wise Yardrat who imparts knowledge and guidance to others.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.3cOMCvny_DkE0wOUAB8g?pid=ImgGn",
+    "facts": {
+      "yearOfBirth": null,
+      "placeOfBirth": "Yardrat",
+      "mainField": "Wisdom"
+    },
+    "extraInfo": {
+      "gender": "Female",
+      "imageSource": "https://www.bing.com/images/create/kusu2c-la-anciana-del-universo-62c-en-una-escena-ser/6524a55737744bf9ae0abf176e28f977?id=IiKBfkImXjCL3fwWrgQ6ug%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"    }
+  },
+  {
+    "id": "videl-great-saiyaman-2", // 22
+    "name": "Videl (Great Saiyaman 2)",
+    "shortDescription": "Crime-Fighting Heroine",
+    "description": "Videl, as Great Saiyaman 2, joins the fight against evil as a crime-fighting heroine.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.QqtnbRWqr1.IR1ztZLEv?pid=ImgGn",
+    "facts": {
+      "yearOfBirth": 773,
+      "placeOfBirth": "Earth",
+      "mainField": "Crime-Fighting"
+    },
+    "extraInfo": {
+      "gender": "Female",
+      "imageSource": "https://www.bing.com/images/create/representacic3b3n-tridimensional-de-videl-en-su-forma/65249d2daef44da0827af44f855dbd9a?id=9Ki539b1Cr1n5UFkpsdY6A%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+    }
+  },
+  
+    {
+    "id": "Goku",//23
+    "name": "Goku",
+    "shortDescription": "Saiyan martial artist and defender of Earth",
+    "description": "Goku is a Saiyan martial artist and the main protagonist of the Dragon Ball series. Known for his cheerful personality and insatiable appetite, Goku is a powerful defender of Earth.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.D8lGPrrMak1z1ldt3hee?pid=ImgGn",
+    "facts": {
+      "yearOfBirth": 737,
+      "placeOfBirth": "Vegeta",
+      "mainField": "Martial Arts"
+    },
+    "extraInfo": {
+      "gender": "Male",
+      "imageSource": "https://www.bing.com/images/create/goku-nic3b1o2c-nube-voladora-2c-3d/652870fff21444608eccb6df77484e07?id=PqbmHUS7yHluybKsYf%2b8qQ%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"  
+    }
+  
+},
+  {
+    "id": "freezer", //24
+    "name": "Freezer",
+    "shortDescription": "Powerful and ruthless space emperor",
+    "description": "Freezer is a powerful and ruthless space emperor in the Dragon Ball series. Known for his strength and cunning, he is a formidable adversary and a major antagonist.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.U6F2ggQro7Doj0QR0_2.?pid=ImgGn",
+    "facts": {
+      "yearOfBirth": null,
+      "placeOfBirth": "Unknown",
+      "mainField": "Galactic Conquest"
+    },
+    "extraInfo": {
+      "gender": "Male",
+    "imageSource": "https://www.bing.com/images/create/freezer2c-dragon-ball2c--alienc3adgena-mutante2c-luchand/65286b4da3a444fd8c24a2d499eb3f13?id=9VTa2itvSDkcLB7OVX4iXw%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+        }
+      }
+    ]
+    

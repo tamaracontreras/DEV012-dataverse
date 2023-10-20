@@ -1,0 +1,13 @@
+*{
+    margin: 2px;
+    padding: 3px;
+}
+
+body {
+    
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Esto centra verticalmente el contenido en la ventana */
+    margin: 0; /* Elimina el margen predeterminado del cuerpo */
+    background-color: #b99393; /* Color de fondo para la página */
+}
