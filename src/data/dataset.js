@@ -1,5 +1,6 @@
 export default [
   {
+
     "id": "android-18", // 1
     "name": "Android 18",
     "shortDescription": "Cyborg Warrior",
@@ -11,10 +12,10 @@ export default [
       "mainField": "Combat"
     },
     "extraInfo": {
+      "gender": "Female",
       "imageSource": "https://www.bing.com/images/create/androide182c-dragon-ball2c-battle2c-front-2c-3d/6525c71ebfb24d9290521bab7277cb93?id=wn4KHs%2bakteVAa%2bCMU1Oig%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
     } 
-    },
-
+  },
   {
     "id": "bulma-mom", // 2
     "name": "Bulma's Mom",
@@ -27,25 +28,26 @@ export default [
       "mainField": "Family"
     },
     "extraInfo": {
+      "gender": "Female",
       "imageSource": "https://www.bing.com/images/create/madre-de-bulma2c-dragon-ball2cescena-hogarec3b1a2c-front/6525d164d4fd41969dc86ca9a666eb52?id=44%2b7obgjTd3iiDFc3mOTyQ%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
-      {
-        "id": "vegeta", //3
-        "name": "Vegeta",
-        "shortDescription": "Proud Saiyan prince and rival of Goku",
-        "description": "Vegeta is the proud Saiyan prince and a powerful warrior in the Dragon Ball series. Initially introduced as an antagonist, he later becomes one of Earth's greatest defenders and a key ally.",
-        "imageUrl": "https://th.bing.com/th/id/OIG.Z..46KRYEDEJEYhjfnNP?pid=ImgGn",
-        "facts": {
-          "yearOfBirth": null,
-          "placeOfBirth": "Vegeta (formerly Planet Vegeta)",
-          "mainField": "Saiyan Prince and Warrior"
-        },
-        "extraInfo": {
-          "imageSource": "https://www.bing.com/images/create/vegeta-2c-adolecente2c--volando-de-dc3ada-2c-3d/65287417f5de4df08fdde203bf595c91?id=WqluQ4h9Mi5mnJIcghmrrw%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
-        }
+  {
+    "id": "vegeta", //3
+    "name": "Vegeta",
+    "shortDescription": "Proud Saiyan prince and rival of Goku",
+    "description": "Vegeta is the proud Saiyan prince and a powerful warrior in the Dragon Ball series. Initially introduced as an antagonist, he later becomes one of Earth's greatest defenders and a key ally.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.Z..46KRYEDEJEYhjfnNP?pid=ImgGn",
+    "facts": {
+      "yearOfBirth": null,
+      "placeOfBirth": "Vegeta",
+      "mainField": "Saiyan Prince and Warrior"
+    },
+    "extraInfo": {
+      "gender": "Male",
+      "imageSource": "https://www.bing.com/images/create/vegeta-2c-adolecente2c--volando-de-dc3ada-2c-3d/65287417f5de4df08fdde203bf595c91?id=WqluQ4h9Mi5mnJIcghmrrw%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+    }
   },
-
   {
     "id": "pan", // 4
     "name": "Pan",
@@ -58,6 +60,7 @@ export default [
       "mainField": "Adventure"
     },
     "extraInfo": {
+      "gender": "Female",
       "imageSource": "https://www.bing.com/images/create/pan2c----granddaughter-of-goku-3d/6525d79ea4b2474ab2db9c61f79bb975?id=99X2CxVW6H4ZpoZm%2f%2f0vdA%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
     }
   },
@@ -73,6 +76,7 @@ export default [
       "mainField": "Science"
     },
     "extraInfo": {
+      "gender": "Female",
       "imageSource": "https://www.bing.com/images/create/android-212c-3d2c-dragon-ball/6526940fcbfe463d8971fc86b7868f6b?id=ObDrIbDI8G9qcuARyqA7Cw%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
   },
 },
@@ -88,27 +92,28 @@ export default [
       "mainField": "Family"
     },
     "extraInfo": {
+      "gender": "Female",
       "imageSource": "https://www.bing.com/images/create/videl-mom2c-digital-art2c-3d-render/6527feca9a0041cf9fcdfcd252992c7a?id=2JMrx%2fiTRbN4VHRntXdB0A%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
     }
   },
   
     {
-      "id": "piccolo", //7
-      "name": "Piccolo",
-      "shortDescription": "Namekian warrior and mentor to Gohan",
-      "description": "Piccolo is a Namekian warrior in the Dragon Ball series. Originally a formidable enemy, he later becomes a mentor and protector, especially to Gohan, and plays a crucial role in defending Earth.",
-      "imageUrl": "https://th.bing.com/th/id/OIG.pR.cUQLNANnwRLEGD9Cx?pid=ImgGn",
-      "facts": {
-        "yearOfBirth": null,
-        "placeOfBirth": "Namek",
-        "mainField": "Martial Arts and Mentorship"
-      },
-      "extraInfo": {
-        "imageSource": "https://www.bing.com/images/create/piccolo-daimac58d-2c--tono-de-piel-verde2c--destruyendo/652872fbf6414c6ba3a23d7eb7b3183f?id=PWOdkF9UB8a4N6fSw6mrVg%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
-      }
+    "id": "piccolo", //7
+    "name": "Piccolo",
+    "shortDescription": "Namekian warrior and mentor to Gohan",
+    "description": "Piccolo is a Namekian warrior in the Dragon Ball series. Originally a formidable enemy, he later becomes a mentor and protector, especially to Gohan, and plays a crucial role in defending Earth.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.pR.cUQLNANnwRLEGD9Cx?pid=ImgGn",
+    "facts": {
+      "yearOfBirth": null,
+      "placeOfBirth": "Namek",
+      "mainField": "Martial Arts and Mentorship"
     },
-  
-    {
+    "extraInfo": {
+      "gender": "Male",
+      "imageSource": "https://www.bing.com/images/create/piccolo-daimac58d-2c--tono-de-piel-verde2c--destruyendo/652872fbf6414c6ba3a23d7eb7b3183f?id=PWOdkF9UB8a4N6fSw6mrVg%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+    }
+  },
+  {
     "id": "videl", // 8
     "name": "Videl",
     "shortDescription": "Skilled Martial Artist",
@@ -120,6 +125,7 @@ export default [
       "mainField": "Martial Arts"
     },
     "extraInfo": {
+      "gender": "Female",
       "imageSource": "https://www.bing.com/images/create/videl--cabello-negro-largo-3d/65281c23726342cda8da0706fd60f540?id=WxDz9nMa7NVc90PfMJVg1g%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
@@ -135,26 +141,27 @@ export default [
       "mainField": "Dark Arts"
     },
     "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/towa2c-demond-3d/65281e34c10542f4ab828ddbed1743e2?id=tnRToVC5my48UJ7hdOLSaw%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"}
+      "gender": "Female",
+      "imageSource": "https://www.bing.com/images/create/towa2c-demond-3d/65281e34c10542f4ab828ddbed1743e2?id=tnRToVC5my48UJ7hdOLSaw%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
+    }
   },
-  
-    {
-      "id": "trunks", //10
-      "name": "Trunks",
-      "shortDescription": "Half-Saiyan time traveler and skilled warrior",
-      "description": "Trunks is a half-Saiyan, half-Human character in the Dragon Ball series. He is a skilled warrior and a time traveler, playing a crucial role in facing various threats to the Earth and its timeline.",
-      "imageUrl": "https://th.bing.com/th/id/OIG.92YllPMu49c3Iceltk1P?pid=ImgGn",
-      "facts": {
-        "yearOfBirth": 766,
-        "placeOfBirth": "Capsule Corporation, Earth",
-        "mainField": "Time Travel and Swordsmanship"
-      },
-      "extraInfo": {
-        "imageSource": "https://www.bing.com/images/create/trunks2c--2cdragon-ball-z2c-3d/652876886aac4ae6b6dfbca6a7e508d0?id=0bKJiNrgsNrxertyjdEU7Q%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
-      }
+  {
+    "id": "trunks", //10
+    "name": "Trunks",
+    "shortDescription": "Half-Saiyan time traveler and skilled warrior",
+    "description": "Trunks is a half-Saiyan, half-Human character in the Dragon Ball series. He is a skilled warrior and a time traveler, playing a crucial role in facing various threats to the Earth and its timeline.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.92YllPMu49c3Iceltk1P?pid=ImgGn",
+    "facts": {
+      "yearOfBirth": 766,
+      "placeOfBirth": "Earth",
+      "mainField": "Time Travel and Swordsmanship"
     },
-  
-    {
+    "extraInfo": {
+      "gender": "Male",
+      "imageSource": "https://www.bing.com/images/create/trunks2c--2cdragon-ball-z2c-3d/652876886aac4ae6b6dfbca6a7e508d0?id=0bKJiNrgsNrxertyjdEU7Q%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+    }
+  },
+  {
     "id": "brianne-de-chateau", // 11
     "name": "Brianne de Chateau",
     "shortDescription": "Magical Girl",
@@ -166,6 +173,7 @@ export default [
       "mainField": "Magical Combat"
     },
     "extraInfo": {
+      "gender": "Female",
       "imageSource": "https://www.bing.com/images/create/brianne-de-chateau-2c-dragon-ball2c-3d/65284f1e54df4d6facd9bc85d6ac5ada?id=n9u185Midd1PDQo4QDpJmg%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
     }
   },
@@ -181,24 +189,26 @@ export default [
       "mainField": "Combat"
     },
     "extraInfo": {
+      "gender": "Female",
       "imageSource": "https://www.bing.com/images/create/kale-supersaiyana-devastadora2c-3d/652851d0a8c1439a8e8cbb11d0881ba4?id=JSMEDWyg7OxSF5CUETQ4xA%3D%3D&view=detailv2&idpp=genimg&form=GCRIDP&ajaxhist=0&ajaxserp=0"
     }
   },
   {
-        "id": "gohan", //13
-        "name": "Gohan",
-        "shortDescription": "Saiyan-Human hybrid and scholar warrior",
-        "description": "Gohan is a Saiyan-Human hybrid in the Dragon Ball series. Initially introduced as a child, he grows to become a powerful scholar warrior, balancing his intellect with formidable combat skills.",
-        "imageUrl": "https://th.bing.com/th/id/OIG..dKkLkd4s7fs4r842OM8?pid=ImgGn",
-        "facts": {
-          "yearOfBirth": 757,
-          "placeOfBirth": "Mount Paozu, Earth",
-          "mainField": "Scholarship and Martial Arts"
-        },
-        "extraInfo": {
-          "imageSource": "https://www.bing.com/images/create/gohan-2cdragon-ball-z2c-3d/652877a002644e3a80336c1b6343a319?id=rHRwFakBj5%2bIwdE%2b8V3ZcA%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
-        }
-      },
+    "id": "gohan", //13
+    "name": "Gohan",
+    "shortDescription": "Saiyan-Human hybrid and scholar warrior",
+    "description": "Gohan is a Saiyan-Human hybrid in the Dragon Ball series. Initially introduced as a child, he grows to become a powerful scholar warrior, balancing his intellect with formidable combat skills.",
+    "imageUrl": "https://th.bing.com/th/id/OIG..dKkLkd4s7fs4r842OM8?pid=ImgGn",
+    "facts": {
+      "yearOfBirth": 757,
+      "placeOfBirth": "Earth",
+      "mainField": "Scholarship and Martial Arts"
+    },
+    "extraInfo": {
+      "gender": "Male",
+      "imageSource": "https://www.bing.com/images/create/gohan-2cdragon-ball-z2c-3d/652877a002644e3a80336c1b6343a319?id=rHRwFakBj5%2bIwdE%2b8V3ZcA%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
+    }
+  },
   {
     "id": "zangya", // 14
     "name": "Zangya",
@@ -211,6 +221,7 @@ export default [
       "mainField": "Piracy"
     },
     "extraInfo": {
+      "gender": "Female",
       "imageSource": "https://www.bing.com/images/create/zangya-2chermosa-chica-de-cabello-anaranjado2cdragon/652878876f9f4071acdbf273d3f70da5?id=dCZ8hSEmOtF0wnUGoXdVNg%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
     
   }
@@ -228,6 +239,7 @@ export default [
       "mainField": "Martial Arts and Courage"
     },
     "extraInfo": {
+      "gender": "Male",
       "imageSource": "https://www.bing.com/images/create/krillin-2cdragon-ball-2c-3d/65287bfe78064d63908a8bab7ee8ef33?id=w5fRPsGF7%2bwvzfAlqSAS1Q%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
     }
   },
@@ -241,13 +253,12 @@ export default [
       "yearOfBirth": "Eternal",
       "placeOfBirth": "Earth",
       "mainField": "Wish Granting"
-  },
+    },
     "extraInfo": {
+      "gender": "Male",
       "imageSource": "https://www.bing.com/images/create/shenlong2c-dragon-ball2c-3d/65287fb5c1d24727a8e3c2b435ab37e6?id=L3KMmMuiiY%2bnQMHrlf9zXQ%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
     }
-    
-        
-      },
+  },
   {
     "id": "tights", // 17
     "name": "Tights",
@@ -260,6 +271,7 @@ export default [
       "mainField": "Support"
     },
     "extraInfo": {
+      "gender": "Female",
       "imageSource": "https://www.bing.com/images/create/tights2c-la-hermana-de-bulma2c-en-una-escena-moderna/6524a33147d44de2a1b24e2952564a2f?id=cR6E4AkxXuWQhAXOgexBNg%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
     }
   },
@@ -275,6 +287,7 @@ export default [
       "mainField": "Family"
     },
     "extraInfo": {
+      "gender": "Female",
       "imageSource": "https://www.bing.com/images/create/interpretacic3b3n-tridimensional-de-marron2c-la-hija-d/6524a23b3b4945959ad57d4b3f46f15d?id=I3TAKqrnmMEjpBufQHEQ6Q%3D%3D&view=detailv2&idpp=genimg&form=GCRIDP&ajaxhist=0&ajaxserp=0"    }
   },
   {
@@ -289,6 +302,7 @@ export default [
       "mainField": "Angel Attendant"
     },
     "extraInfo": {
+      "gender": "Female",
       "imageSource": "https://www.bing.com/images/create/vados2c-un-c3a1ngel-guc3ada2c-hermana-mayor-de-whis2cmujer2c/65285a2f8b554f3085873b0cdd307b9b?id=EiikUaf7iVSAB5Lv%2b9tyZw%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
     }
   },
@@ -304,6 +318,7 @@ export default [
       "mainField": "Combat"
     },
     "extraInfo": {
+      "gender": "Female",
       "imageSource": "https://www.bing.com/images/create/interpretacic3b3n-tridimensional-de-kale-en-su-forma-/6524a02b9fee42cc8c251afe0a3104bb?id=0ExWW9PnVzYmfYEJ3dzJGw%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
     }
   },
@@ -319,6 +334,7 @@ export default [
       "mainField": "Wisdom"
     },
     "extraInfo": {
+      "gender": "Female",
       "imageSource": "https://www.bing.com/images/create/kusu2c-la-anciana-del-universo-62c-en-una-escena-ser/6524a55737744bf9ae0abf176e28f977?id=IiKBfkImXjCL3fwWrgQ6ug%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"    }
   },
   {
@@ -333,27 +349,28 @@ export default [
       "mainField": "Crime-Fighting"
     },
     "extraInfo": {
+      "gender": "Female",
       "imageSource": "https://www.bing.com/images/create/representacic3b3n-tridimensional-de-videl-en-su-forma/65249d2daef44da0827af44f855dbd9a?id=9Ki539b1Cr1n5UFkpsdY6A%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
     }
   },
   
     {
-      "id": "goku",//23
-      "name": "Goku",
-      "shortDescription": "Saiyan martial artist and defender of Earth",
-      "description": "Goku is a Saiyan martial artist and the main protagonist of the Dragon Ball series. Known for his cheerful personality and insatiable appetite, Goku is a powerful defender of Earth.",
-      "imageUrl": "https://th.bing.com/th/id/OIG.D8lGPrrMak1z1ldt3hee?pid=ImgGn",
-      "facts": {
-        "yearOfBirth": 737,
-        "placeOfBirth": "Vegeta (formerly Planet Vegeta)",
-        "mainField": "Martial Arts"
-      },
-      "extraInfo": {
-        "imageSource": "https://www.bing.com/images/create/goku-nic3b1o2c-nube-voladora-2c-3d/652870fff21444608eccb6df77484e07?id=PqbmHUS7yHluybKsYf%2b8qQ%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
-      
+    "id": "Goku",//23
+    "name": "Goku",
+    "shortDescription": "Saiyan martial artist and defender of Earth",
+    "description": "Goku is a Saiyan martial artist and the main protagonist of the Dragon Ball series. Known for his cheerful personality and insatiable appetite, Goku is a powerful defender of Earth.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.D8lGPrrMak1z1ldt3hee?pid=ImgGn",
+    "facts": {
+      "yearOfBirth": 737,
+      "placeOfBirth": "Vegeta",
+      "mainField": "Martial Arts"
+    },
+    "extraInfo": {
+      "gender": "Male",
+      "imageSource": "https://www.bing.com/images/create/goku-nic3b1o2c-nube-voladora-2c-3d/652870fff21444608eccb6df77484e07?id=PqbmHUS7yHluybKsYf%2b8qQ%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"  
     }
   
-  },
+},
   {
     "id": "freezer", //24
     "name": "Freezer",
@@ -364,8 +381,9 @@ export default [
       "yearOfBirth": null,
       "placeOfBirth": "Unknown",
       "mainField": "Galactic Conquest"
-        },
+    },
     "extraInfo": {
+      "gender": "Male",
     "imageSource": "https://www.bing.com/images/create/freezer2c-dragon-ball2c--alienc3adgena-mutante2c-luchand/65286b4da3a444fd8c24a2d499eb3f13?id=9VTa2itvSDkcLB7OVX4iXw%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
         }
       }

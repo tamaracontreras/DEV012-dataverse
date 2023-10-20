@@ -12,28 +12,41 @@
   </header>
 
   <body>
-    <h1>Hola!m</h1> 
+    <h1>Personajes de Dragon Ball</h1> 
     <script src="main.js" type="module"></script>
 
-    <div id="root">
-      <ul>
-        
-      </ul>
-    </div> 
-    <label id="filter-type">  
-      <select data-testid="select-filter" name="type" id="select-filter">
-        <option value="Genero">Género</option>
-        <option value="Especialidad">Especialidad</option>
-        <option value="Planeta proveniente">Planeta proveniente</option>
+<!-- agregado 15-10 -->
+<div id="dataRoot">
+  <ul id="cards-list">
+ 
+  </ul>
+  <!-- agregado 15-10 -->
+</div> 
+<!-- for enlaza el label con el id -->
+    <label for="select-filter" > Seleccione Lugar de Nacimiento</label>
+      <select data-testid="select-places" name="type" id="select-places">
+       
       </select>
-    </label>
-    <label id="sorting">
-      <select data-testid="select-sort" name="alph">
+      <label for="genero" > Seleccione Género</label>
+      <select data-testid="select-genero" name="type" id="select-genero">
+
+        <option value="Femenino">Femenino</option>
+        <option value="Masculino">Masculino</option> 
+      </select>
+    
+    
+      <label for="sorting"> Ordenar Alfabéticamente</label>
+      <select data-testid="select-sort" name="alph" id="sorting" >
         <option value="desc">A-Z</option>
         <option value="asc">Z-A</option>
       </select>
-    </label>
-  <button data-testid="button-clear"></button>
-  </body>
+    
+
+    <label for="filtro">Filtrar por Nombre:</label>
+      <input type="text" id="filtro">
+
+      <ul id="resultado"></ul>
+      <button data-testid="button-clear"> Borrar Filtro</button>
+       </body>
 </html>
 
