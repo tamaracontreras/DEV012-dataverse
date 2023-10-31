@@ -7,39 +7,46 @@
   </head>
 
   <header>
-    <h1>DATAVERSE</h1>
-    <link rel="stylesheet" href="style.css" />
+    <img id="logo" src="images/Logo.jpeg" alt="dragonBall">
+    
   </header>
 
   <body>
-    <h1>Personajes de Dragon Ball</h1> 
+    
     <script src="main.js" type="module"></script>
-
-
 <div id="root">
-  <label for="select-filter" > Seleccione Lugar de Nacimiento</label>
+  <div class="container">
+  <div class="contenedor">
+  <label for="select-filter"> <span>Planetas</span></label>
+</div>
   <select data-testid="select-places" name="type" id="select-places">
   </select>
+  
 
-  <label for="sorting"> Ordenar Alfabéticamente</label>
-  <select data-testid="select-sort" name="alph" id="sorting" >
+
+<div class="contenedorDos">
+  <label for="sorting"><span>Ordenar</span></label>
+</div>
+  <select data-testid="select-sort" name="alph" id="select-sort" >
       <option value="desc">A-Z</option>
       <option value="asc">Z-A</option>
   </select>
+
+  <button data-testid="button-clear"> Borrar Filtro</button>  
+</div>
     
-    <button data-testid="button-clear"> Borrar Filtro</button>  
+ 
    
-  
+ 
   <ul id="cards-list">
+    
+      
+    
 
   </ul>
+
   
 </div> 
-<!-- for enlaza el label con el id -->
-   
-   
-    
-    
      
        </body>
 </html>

@@ -8,7 +8,7 @@ export default [
     "imageUrl": "https://th.bing.com/th/id/OIG.Dav5Iv6rENBcqTcnspoM?pid=ImgGn",
     "facts": {
       "yearOfBirth": null,
-      "placeOfBirth": "Unknown",
+      "placeOfBirth": "Earth",
       "mainField": "Combat"
     },
     "extraInfo": {
@@ -24,7 +24,7 @@ export default [
     "imageUrl":" https://th.bing.com/th/id/OIG.MQ8N9WWarFrzYdiP6o.L?pid=ImgGn",
     "facts": {
       "yearOfBirth": null,
-      "placeOfBirth": "Unknown",
+      "placeOfBirth": "Earth",
       "mainField": "Family"
     },
     "extraInfo": {
@@ -134,7 +134,7 @@ export default [
     "name": "Towa",
     "shortDescription": "Dark Sorceress",
     "description": "Towa is a dark sorceress and a key antagonist in Dragon Ball Xenoverse, manipulating time for her nefarious purposes.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.Xm_vJ122IFM2yWtbPsLg?pid=ImgGn",
+    "imageUrl": "https://th.bing.com/th/id/OIG.FKJ_ptkDj5YGTp0gFs.7?pid=ImgGn",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Demon Realm",
@@ -295,7 +295,7 @@ export default [
     "name": "Vados",
     "shortDescription": "Angel Attendant",
     "description": "Vados is Whis's older sister and the attendant to Champa, the God of Destruction of Universe 6.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.VWwLQOgGc6cqWzduIVoo?pid=ImgGn",
+    "imageUrl": "https://th.bing.com/th/id/OIG.Rskz2AUePWGTYlyavRXS?pid=ImgGn&w=1024&h=1024&rs=1",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Unknown",
