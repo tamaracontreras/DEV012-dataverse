@@ -1,13 +1,186 @@
-*{
-    margin: 2px;
-    padding: 3px;
-}
+/* Agrega estilos para mostrar los div en columna */
+*{font-family: Arial, Helvetica, sans-serif;}
 
-body {
+  /* Estilo adicional para ajustar el espacio entre dt y dd */
+ 
+  /* logo dragon Ball */
+  #logo{
+    margin-left: 100px;
+    height: 100px;
+    width: 100px;
+    border-radius: 0px 30px 0px 30px ;
+    box-shadow: inset 5px 5px 10px #c9c9c9,
+            inset -5px -5px 10px #ffffff;
+
+  }
+
+
+
+  /* //contenedor de planetas */
+.contenedor{
+  border-radius: 38px;
+  box-sizing: content-box;
+  width: 60px;
+  height: 10px;  
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  font-size: 8px; 
+  border:1px solid #c9c9c9;
+  background: #F5F5F5;
+  box-shadow: 5px 5px 14px #c9c9c9,-5px -5px 14px #ffffff;
     
+   
+
+}
+/* contenedor de ordenar */
+ .contenedorDos{
+  border-radius: 38px;
+  margin-left: 10px;
+  box-sizing: content-box;
+  width: 60px;
+  height: 10px;  
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  font-size: 8px;
+  border:1px solid #c9c9c9;
+  background: #F5F5F5;
+  box-shadow: 5px 5px 14px #c9c9c9, -5px -5px 14px #ffffff;
+  }    
+
+
+span{
+ 
+    width: 80px;
+    height: 20px; 
+    align-items: center;
+    
+}
+/* estilos del filtro */
+  select {
+    border-radius: 38px;
+    box-sizing: content-box;
+    align-items: center;
+    width: 60px;
+    height: 10px; 
+    margin-left: 10px;
+    font-size: 8px;
+    border:1px solid #c9c9c9;
+    background: #F5F5F5;
+    box-shadow:  5px 5px 14px #c9c9c9, -5px -5px 14px #ffffff;
+    
+  }
+
+select:hover {
+    border-color:  #D67711;
+  }
+
+  option{
+    border-radius: 30px;
+  }
+
+  /* es la clase del div que contiene a los filtros y los label */
+  .container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  }
+
+  button {
+    width: 50px;
+    margin-left: 10px;
+    border-radius: 38px;
+    box-sizing: content-box;
+    background-color:  #D67711;
+    color: #072083;
+    border:1px solid #c9c9c9;
+    box-shadow:  5px 5px 14px #c9c9c9,
+                 -5px -5px 14px #ffffff;
     align-items: center;
     justify-content: center;
-    height: 100vh; /* Esto centra verticalmente el contenido en la ventana */
-    margin: 0; /* Elimina el margen predeterminado del cuerpo */
-    background-color: #b99393; /* Color de fondo para la página */
+    stroke: none;
+    font-size: 8px;
+  }
+ 
+  li{
+    list-style: none;
+   
+    
+  }
+.card-background{
+
+  background-color: #ff6207e0;
+  margin-top: 10px 10px 10px 10px;
+  border-radius: 10px;
+  width: 90px;
+  height: 210px;
+  padding: 10px 10px 10px 10px;
 }
+
+
+   
+  
+
+  img {
+    display: block;
+    object-fit: cover;
+    width: 90px;
+    height: 130px;
+    
+    border-radius: 60px 0px 0px 0px;
+    border: 0.2px solid whitesmoke;
+    box-shadow: -2px 17px 10px 0px rgba(0,0,0,0.28);
+-webkit-box-shadow: -2px 17px 10px 0px rgba(0,0,0,0.28);
+-moz-box-shadow: -2px 17px 10px 0px rgba(0,0,0,0.28);
+
+  }
+  #contenedorTitulo{
+    margin: 0px;
+   border-radius: 100px;
+   width: 90px;
+   height: 8px;  
+   align-items: center;
+   background: #F5F5F5;
+   
+  }
+  h6{
+    margin: 5px 5px 5px 5px;
+  } 
+
+  .titulo{
+    
+    text-align: center;
+    color: black;
+    font-size: 7px;
+  }
+  .info-container{
+   
+    width: 80px;
+    height: 45px;
+    margin: 5px 5px 5px 0px;
+    
+    padding:5px 5px 10px 5px ;
+    background: rgba( 255, 255, 255, 0.25 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 0.2px solid whitesmoke;
+    font-size: 5px;
+    color: whitesmoke;
+    text-align: justify;
+
+  }
+  .estiloLetra{
+    font-weight: bold;
+    color: black;
+  }
+  .card-background p {
+    line-height: 1; /* O ajusta el valor según tus necesidades */
+    margin: 0; /* Puede ser útil para asegurarse de que no haya márgenes externos */
+  }
+  
+
+  
+  
