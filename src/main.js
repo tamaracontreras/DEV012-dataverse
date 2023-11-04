@@ -28,6 +28,19 @@ selectOrden.addEventListener("change", (e)=> {
     cardsList.innerHTML = renderItems(orderDataByName(data,value))
 })
 
+// Obtener referencia al botón por su atributo data-testid
+const clearButton = document.querySelector('[data-testid="button-clear"]');
+
+// Agregar un manejador de eventos al botón
+clearButton.addEventListener('click', function () {
+    // Lógica para reiniciar la aplicación (limpiar filtros y ordenamientos)
+    // ...
+
+    // Por ejemplo, puedes redirigir o recargar la página para reiniciar la aplicación
+    location.reload();
+});
+
+
     
 //     cardsList.innerHTML = renderItems(filterSort(data,value))
 // })

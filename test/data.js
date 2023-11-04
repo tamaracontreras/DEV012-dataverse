@@ -72,7 +72,7 @@ export default [
     "description": "Android 21 is an original character in the Dragon Ball universe, known for her scientific expertise.",
     "imageUrl": "https://th.bing.com/th/id/OIG.aei.b7RbfT9ilDlT7MC.?pid=ImgGn",
     "facts": {
-      "yearOfBirth": null,
+      "yearOfBirth": Earth,
       "placeOfBirth": "Unknown",
       "mainField": "Science"
     },
