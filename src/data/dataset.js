@@ -7,7 +7,7 @@ export default [
     "description": "Android 18 is a skilled martial artist and one of the androids created by Dr. Gero to kill Goku.",
     "imageUrl": "https://th.bing.com/th/id/OIG.Dav5Iv6rENBcqTcnspoM?pid=ImgGn",
     "facts": {
-      "yearOfBirth": null,
+      "yearOfBirth": 16,
       "placeOfBirth": "Earth",
       "mainField": "Combat"
     },
@@ -23,7 +23,7 @@ export default [
     "description": "Bulma's mother is a caring and supportive figure in Bulma's life, providing guidance and encouragement.",
     "imageUrl":" https://th.bing.com/th/id/OIG.MQ8N9WWarFrzYdiP6o.L?pid=ImgGn",
     "facts": {
-      "yearOfBirth": null,
+      "yearOfBirth": 47,
       "placeOfBirth": "Earth",
       "mainField": "Family"
     },
@@ -39,7 +39,7 @@ export default [
     "description": "Vegeta is the proud Saiyan prince and a powerful warrior in the Dragon Ball series. Initially introduced as an antagonist, he later becomes one of Earth's greatest defenders and a key ally.",
     "imageUrl": "https://th.bing.com/th/id/OIG.Z..46KRYEDEJEYhjfnNP?pid=ImgGn",
     "facts": {
-      "yearOfBirth": null,
+      "yearOfBirth": 48,
       "placeOfBirth": "Vegeta",
       "mainField": "Saiyan Prince and Warrior"
     },
@@ -71,8 +71,8 @@ export default [
     "description": "Android 21 is an original character in the Dragon Ball universe, known for her scientific expertise.",
     "imageUrl": "https://th.bing.com/th/id/OIG.aei.b7RbfT9ilDlT7MC.?pid=ImgGn",
     "facts": {
-      "yearOfBirth": null,
-      "placeOfBirth": "Unknown",
+      "yearOfBirth": 10,
+      "placeOfBirth": "Earth",
       "mainField": "Science"
     },
     "extraInfo": {
@@ -88,7 +88,7 @@ export default [
     "imageUrl": "https://th.bing.com/th/id/OIG.laKkmS1qLiDPS_d6WIER?pid=ImgGn",
     "facts": {
       "yearOfBirth": null,
-      "placeOfBirth": "Unknown",
+      "placeOfBirth": "Earth",
       "mainField": "Family"
     },
     "extraInfo": {
@@ -104,7 +104,7 @@ export default [
     "description": "Piccolo is a Namekian warrior in the Dragon Ball series. Originally a formidable enemy, he later becomes a mentor and protector, especially to Gohan, and plays a crucial role in defending Earth.",
     "imageUrl": "https://th.bing.com/th/id/OIG.pR.cUQLNANnwRLEGD9Cx?pid=ImgGn",
     "facts": {
-      "yearOfBirth": null,
+      "yearOfBirth": 27,
       "placeOfBirth": "Namek",
       "mainField": "Martial Arts and Mentorship"
     },
@@ -169,7 +169,7 @@ export default [
     "imageUrl": "https://th.bing.com/th/id/OIG.dwasDP1v2UmjT9QH6AWE?pid=ImgGn",
     "facts": {
       "yearOfBirth": null,
-      "placeOfBirth": "Unknown",
+      "placeOfBirth": "Universe 2",
       "mainField": "Magical Combat"
     },
     "extraInfo": {
@@ -217,7 +217,7 @@ export default [
     "imageUrl": "https://th.bing.com/th/id/OIG.ruTGe7Gzkjzqu4oYD.fA?pid=ImgGn",
     "facts": {
       "yearOfBirth": null,
-      "placeOfBirth": "Unknown",
+      "placeOfBirth": "Universe 6",
       "mainField": "Piracy"
     },
     "extraInfo": {
@@ -235,7 +235,7 @@ export default [
     "imageUrl": "https://th.bing.com/th/id/OIG.zXA4hFz3SIsYR6lY3WXQ?pid=ImgGn",
     "facts": {
       "yearOfBirth": 736,
-      "placeOfBirth": "Unknown",
+      "placeOfBirth": "Earth",
       "mainField": "Martial Arts and Courage"
     },
     "extraInfo": {
@@ -260,14 +260,14 @@ export default [
     }
   },
   {
-    "id": "tights", // 17
+    "id": "Tights", // 17
     "name": "Tights",
     "shortDescription": "Bulma's Sister",
     "description": "Tights is Bulma's older sister, known for her intelligence and supportive role in Dragon Ball Super.",
     "imageUrl": "https://th.bing.com/th/id/OIG.Tw7qIG1itKxBFBWpjE9R?pid=ImgGn",
     "facts": {
-      "yearOfBirth": null,
-      "placeOfBirth": "Unknown",
+      "yearOfBirth": 28,
+      "placeOfBirth": "Earth",
       "mainField": "Support"
     },
     "extraInfo": {
@@ -282,7 +282,7 @@ export default [
     "description": "Marron is the daughter of Krillin and Android 18, appearing as a young child in Dragon Ball Z and Dragon Ball Super.",
     "imageUrl": "https://th.bing.com/th/id/OIG.aBnjp36702xz0Qp8b4fJ?pid=ImgGn",
     "facts": {
-      "yearOfBirth": null,
+      "yearOfBirth": 9,
       "placeOfBirth": "Earth",
       "mainField": "Family"
     },
@@ -298,7 +298,7 @@ export default [
     "imageUrl": "https://th.bing.com/th/id/OIG.Rskz2AUePWGTYlyavRXS?pid=ImgGn&w=1024&h=1024&rs=1",
     "facts": {
       "yearOfBirth": null,
-      "placeOfBirth": "Unknown",
+      "placeOfBirth": "Heaven",
       "mainField": "Angel Attendant"
     },
     "extraInfo": {
@@ -361,7 +361,7 @@ export default [
     "description": "Goku is a Saiyan martial artist and the main protagonist of the Dragon Ball series. Known for his cheerful personality and insatiable appetite, Goku is a powerful defender of Earth.",
     "imageUrl": "https://th.bing.com/th/id/OIG.D8lGPrrMak1z1ldt3hee?pid=ImgGn",
     "facts": {
-      "yearOfBirth": 737,
+      "yearOfBirth": 25,
       "placeOfBirth": "Vegeta",
       "mainField": "Martial Arts"
     },
@@ -378,8 +378,8 @@ export default [
     "description": "Freezer is a powerful and ruthless space emperor in the Dragon Ball series. Known for his strength and cunning, he is a formidable adversary and a major antagonist.",
     "imageUrl": "https://th.bing.com/th/id/OIG.U6F2ggQro7Doj0QR0_2.?pid=ImgGn",
     "facts": {
-      "yearOfBirth": null,
-      "placeOfBirth": "Unknown",
+      "yearOfBirth": 70,
+      "placeOfBirth": "Changlong",
       "mainField": "Galactic Conquest"
     },
     "extraInfo": {
