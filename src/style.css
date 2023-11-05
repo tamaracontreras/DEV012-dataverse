@@ -4,6 +4,9 @@
   /* Estilo adicional para ajustar el espacio entre dt y dd */
  
   /* logo dragon Ball */
+  header{
+  background-color: aqua;
+  }
   #logo{
     margin-left: 100px;
     height: 100px;
@@ -13,7 +16,7 @@
             inset -5px -5px 10px #ffffff;
 
   }
-
+.name{color:blue}
 
 
   /* //contenedor de planetas */
@@ -118,10 +121,6 @@ select:hover {
   height: 210px;
   padding: 10px 10px 10px 10px;
 }
-
-
-   
-  
 
   img {
     display: block;

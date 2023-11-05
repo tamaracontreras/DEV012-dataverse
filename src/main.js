@@ -1,6 +1,6 @@
 import { placesOfBirth, filterData, orderDataByName} from './dataFunctions.js';
 import { renderOptions, renderItems} from './view.js';
-import data from './data/dataset.js';
+import { data }from './data/dataset.js';
 
 
 const lugares = placesOfBirth(data)
