@@ -8,32 +8,22 @@ export const renderOptions = (data) => {
 
 export const renderItems = (personajes) => {
   let cards ='' 
-  personajes.forEach(personaje => {
-  cards += `<div class="card-background">
-  <li>
-  <div class="card" itemscope itemtype="DragonBall">
-   <img src="${personaje.imageUrl}" alt="${personaje.name}" />
-  
-   <div id="contenedorTitulo">
-    <h6 class="titulo" itemprop="name">${personaje.name}</h6>
-    </div>
-    <div class="info-container">
-    <p itemprop="mainField"><span class="estiloLetra">Context:</span> ${personaje.facts.mainField}</p>
-    <p itemprop="description"><span class="estiloLetra">Description:</span> ${personaje.description}</p>
-    <p itemprop="yearOfBirth"><span class="estiloLetra">Year Of Birth:</span> ${personaje.facts.yearOfBirth}</p>
-    <p itemprop="placeOfBirth"><span class="estiloLetra">Planet Of Birth:</span> ${personaje.facts.placeOfBirth}</p>
-  </div>
-  </div>
-  </div>
-  
- </li>
- </div>`;
+  personajes?.forEach(personaje => {
+  cards += `<li class="card-background">
+  <dl itemscope itemtype="DragonBall">
+  <img src="${personaje.imageUrl}" alt="${personaje.name}"/>
+  <dt>Name:</dt><dd itemprop="name">${personaje.name}</dd>
+  <dt>Description:</dt><dd itemprop="shortDescription">${personaje.shortDescription}</dd>
+  <dt>Planet Of Birth</dt><dd itemprop="placeOfBirth">${personaje.facts.placeOfBirth}<dd/>
+  <dt>Field of Study:</dt> <dd itemprop="mainField">${personaje.facts.mainField}</dd>
 
+  </dl>
 
+</li>`;
 
   });
   return `<ul>${cards}</ul>`;
- }
+}
 // esta funcion renderiza las 24 imagenes
 // function renderCards(data){
   // ctrl k c comentar! ctr k u descomentar

@@ -1,4 +1,4 @@
-export default [
+export const data = [
   {
 
     "id": "android-18", // 1

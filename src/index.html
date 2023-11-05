@@ -13,30 +13,22 @@
 
   <body>
     <main>
-      <h2>Personajes Populares</h2>
-  
-      <script src="main.js" type="module"></script>
+      <h2>Personajes Populares</h2>  
   <div id="root">
-  <div class="container">
-  <div class="contenedor">
+  
   <label for="select-filter"> <span>Planetas</span></label>
-</div>
-  <select data-testid="select-places" name="type" id="select-places">
+
+  <select data-testid="select-places" name="places" id="select-places">
   </select>
   
+<label for="sorting"><span>Ordenars</span></label>
 
+<select data-testid="select-sort" name="alph" id="select-sort">
+  <option value="desc">A-Z</option>
+  <option value="asc">Z-A</option>
+</select>
 
-<div class="contenedorDos">
-<label for="sorting"><span>Ordenar</span></label>
-</div>
-<select data-testid="select-sort" name="alph" id="select-sort" >
-<option value="desc">A-Z</option>
-<option value="asc">Z-A</option>
-  </select>
-
-  <button data-testid="button-clear"> Borrar Filtro</button>  
-</div>
-    
+<button data-testid="button-clear"> Borrar Filtro</button>     
   <ul id="cards-list">
     
   </ul>
@@ -47,6 +39,8 @@
   Tam 2023
 </footer>
 </main>
+<script src="main.js" type="module"></script>
 </body>
+
 </html>
 
