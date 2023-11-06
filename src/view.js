@@ -9,7 +9,7 @@ export const renderOptions = (data) => {
 export const renderItems = (personajes) => {
   let cards ='' 
   personajes?.forEach(personaje => {
-  cards += `<li class="card-background">
+  cards += `<li  class="card-background" itemtype="DragonBall">
   <dl itemscope itemtype="DragonBall">
   <img src="${personaje.imageUrl}" alt="${personaje.name}"/>
   <dt>Name:</dt><dd itemprop="name">${personaje.name}</dd>
@@ -22,7 +22,7 @@ export const renderItems = (personajes) => {
 </li>`;
 
   });
-  return `<ul>${cards}</ul>`;
+  return `<ul class="cards">${cards}</ul>`;
 }
 // esta funcion renderiza las 24 imagenes
 // function renderCards(data){
