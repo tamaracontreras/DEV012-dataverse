@@ -11,34 +11,37 @@
     <h1>Dragon Ball Fandom</h1> 
   </header>
 
-  <body>
-    <main>
-      <h2>Personajes Populares</h2>  
-  <div id="root">
   
-  <label for="select-filter"> <span>Planetas</span></label>
-
-  <select data-testid="select-places" name="places" id="select-places">
-  </select>
-  
-<label for="sorting"><span>Ordenars</span></label>
-
-<select data-testid="select-sort" name="alph" id="select-sort">
-  <option value="desc">A-Z</option>
-  <option value="asc">Z-A</option>
-</select>
-
-<button data-testid="button-clear"> Borrar Filtro</button>     
-  <ul id="cards-list">
     
+      <h2>Personajes Populares</h2>  
+    <nav>
+ 
+    <label for="select-filter"> Planetas</label>
+    <select data-testid="select-filter" name="places" id="select-filter"></select>
+    <!-- data-testid="select-filter" name="places" id="select-places" -->
+  
+    <label for="select-sort">Ordenars</label>
+  <select data-testid="select-sort" name="alph" id="select-sort">
+   
+    <option value="desc">A-Z</option>
+    <option value="asc">Z-A</option>
+    </select> 
+  
+  <button data-testid="button-clear"> Borrar Filtro</button>   
+</nav>
+<main>
+</main>
+<div id="root">
+  <ul>
+    <li></li>
   </ul>
 
-  
 </div> 
+ 
 <footer>
   Tam 2023
 </footer>
-</main>
+
 <script src="main.js" type="module"></script>
 </body>
 

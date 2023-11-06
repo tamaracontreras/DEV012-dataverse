@@ -5,16 +5,16 @@ import { data }from './data/dataset.js';
 
 const lugares = placesOfBirth(data)
 
-const selectPlaces = document.querySelector("#select-places")
+const selectPlaces = document.querySelector("#select-filter")
 selectPlaces.innerHTML = renderOptions(lugares)
 
-const cardsList = document.querySelector("#cards-list")
+const cardsList = document.querySelector("#root")
 cardsList.innerHTML = renderItems(data)
 
 // en esta funcion capturo un elemento de html donde renderiso las imagenes
 
 
-const selectPlanetas = document.querySelector("#select-places")
+const selectPlanetas = document.querySelector("#select-filter")
 selectPlanetas.addEventListener("change", (e)=> {
     const value = e.target.value 
     
