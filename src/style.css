@@ -121,7 +121,9 @@ select:hover {
   height: 210px;
   padding: 10px 10px 10px 10px;
 }
-
+dd, dt{
+  font-size: 7px;
+}
   img {
     display: block;
     object-fit: cover;
