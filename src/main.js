@@ -13,19 +13,21 @@ cardsList.innerHTML = renderItems(data)
 
 // en esta funcion capturo un elemento de html donde renderiso las imagenes
 
+// crear una const que sellame resuktados actuales y cada accion el resultado de filtrar lo asigno 
 
+let resultadosActuales = data
 const selectPlanetas = document.querySelector("#select-filter")
 selectPlanetas.addEventListener("change", (e)=> {
     const value = e.target.value 
-    
-    cardsList.innerHTML = renderItems(filterData(data,value))
+    resultadosActuales = filterData(data,value)
+    cardsList.innerHTML = renderItems(resultadosActuales)
 })
 
 const selectOrden = document.querySelector("#select-sort")
 selectOrden.addEventListener("change", (e)=> {
     const value = e.target.value 
     
-    cardsList.innerHTML = renderItems(orderDataByName(data,value))
+    cardsList.innerHTML = renderItems(orderDataByName(resultadosActuales,value))
 })
 
 // Obtener referencia al botón por su atributo data-testid
@@ -35,9 +37,9 @@ const clearButton = document.querySelector('[data-testid="button-clear"]');
 clearButton.addEventListener('click', function () {
     // Lógica para reiniciar la aplicación (limpiar filtros y ordenamientos)
     // ...
-
+    cardsList.innerHTML = renderItems(data)
     // Por ejemplo, puedes redirigir o recargar la página para reiniciar la aplicación
-    location.reload();
+    // location.reload();
 });
 
 

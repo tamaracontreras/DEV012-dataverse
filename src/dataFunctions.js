@@ -22,23 +22,25 @@ export const filterData =(personajes, placeOfBirth) =>{
 }
 
 export const orderDataByName = (personajes, orden) => {
-  const personajesOrdenados = [...personajes];
+  personajes.sort((a, b) => {
+    const nameA = a.name.toUpperCase();
+    const nameB = b.name.toUpperCase();
+    if (nameA < nameB){
+      return -1; 
 
-  personajesOrdenados.sort((b, a) => {
-    const nombreA = a.name.toLowerCase();
-    const nombreB = b.name.toLowerCase();
-
-    if (orden === 'asc') {
-      return nombreA.localeCompare(nombreB);
-    } else if (orden === 'desc') {
-      return nombreB.localeCompare(nombreA);
     }
+    if (nameA > nameB){
+      return 1
+    }
+    return 0;
+  })
+    
+    if(orden === "desc"){
+      personajes.reverse() 
+    } 
+    return personajes
+  }
 
-    return nombreA.localeCompare(nombreB);
-  });
-
-  return personajesOrdenados;
-};
 // export const filterSort =(personajes, orden) =>{
 //   const personajesOrdenados = personajes.sort()
 //   return personajesOrdenados

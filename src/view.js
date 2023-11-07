@@ -15,6 +15,7 @@ export const renderItems = (personajes) => {
   <dt>Name:</dt><dd itemprop="name">${personaje.name}</dd>
   <dt>Description:</dt><dd itemprop="shortDescription">${personaje.shortDescription}</dd>
   <dt>Planet Of Birth</dt><dd itemprop="placeOfBirth">${personaje.facts.placeOfBirth}<dd/>
+  <dt>Year Of Birth:</dt><dd itemprop="yearOfBirth">${parseFloat(personaje.facts.yearOfBirth)}</dd>
   <dt>Field of Study:</dt> <dd itemprop="mainField">${personaje.facts.mainField}</dd>
 
   </dl>
@@ -22,7 +23,7 @@ export const renderItems = (personajes) => {
 </li>`;
 
   });
-  return `<ul class="cards">${cards}</ul>`;
+  return `<ul>${cards}</ul>`;
 }
 // esta funcion renderiza las 24 imagenes
 // function renderCards(data){
