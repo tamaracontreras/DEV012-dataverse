@@ -35,7 +35,7 @@ export const data = [
   {
     "id": "vegeta", //3
     "name": "Vegeta",
-    "shortDescription": "Proud Saiyan prince and rival of Goku",
+    "shortDescription": " Saiyan rival of Goku",
     "description": "Vegeta is the proud Saiyan prince and a powerful warrior in the Dragon Ball series. Initially introduced as an antagonist, he later becomes one of Earth's greatest defenders and a key ally.",
     "imageUrl": "https://th.bing.com/th/id/OIG.Z..46KRYEDEJEYhjfnNP?pid=ImgGn",
     "facts": {
@@ -100,7 +100,7 @@ export const data = [
     {
     "id": "piccolo", //7
     "name": "Piccolo",
-    "shortDescription": "Namekian warrior and mentor to Gohan",
+    "shortDescription": "Namekian warrior",
     "description": "Piccolo is a Namekian warrior in the Dragon Ball series. Originally a formidable enemy, he later becomes a mentor and protector, especially to Gohan, and plays a crucial role in defending Earth.",
     "imageUrl": "https://th.bing.com/th/id/OIG.pR.cUQLNANnwRLEGD9Cx?pid=ImgGn",
     "facts": {
@@ -116,7 +116,7 @@ export const data = [
   {
     "id": "videl", // 8
     "name": "Videl",
-    "shortDescription": "Skilled Martial Artist",
+    "shortDescription": "Martial Artist",
     "description": "Videl is the daughter of Mr. Satan and the wife of Gohan. She is a skilled martial artist.",
     "imageUrl": "https://th.bing.com/th/id/OIG.aR_iuxFvX_mVV0SE3fvq?pid=ImgGn",
     "facts": {
@@ -148,7 +148,7 @@ export const data = [
   {
     "id": "trunks", //10
     "name": "Trunks",
-    "shortDescription": "Half-Saiyan time traveler and skilled warrior",
+    "shortDescription": "Half-Saiyan warrior",
     "description": "Trunks is a half-Saiyan, half-Human character in the Dragon Ball series. He is a skilled warrior and a time traveler, playing a crucial role in facing various threats to the Earth and its timeline.",
     "imageUrl": "https://th.bing.com/th/id/OIG.92YllPMu49c3Iceltk1P?pid=ImgGn",
     "facts": {
@@ -163,7 +163,7 @@ export const data = [
   },
   {
     "id": "brianne-de-chateau", // 11
-    "name": "Brianne de Chateau",
+    "name": "Brianne",
     "shortDescription": "Magical Girl",
     "description": "Brianne de Chateau, also known as Ribrianne, is a warrior from Universe 2 who transforms into a powerful magical girl.",
     "imageUrl": "https://th.bing.com/th/id/OIG.dwasDP1v2UmjT9QH6AWE?pid=ImgGn",
@@ -196,7 +196,7 @@ export const data = [
   {
     "id": "gohan", //13
     "name": "Gohan",
-    "shortDescription": "Saiyan-Human hybrid and scholar warrior",
+    "shortDescription": "Saiyan-Human",
     "description": "Gohan is a Saiyan-Human hybrid in the Dragon Ball series. Initially introduced as a child, he grows to become a powerful scholar warrior, balancing his intellect with formidable combat skills.",
     "imageUrl": "https://th.bing.com/th/id/OIG..dKkLkd4s7fs4r842OM8?pid=ImgGn",
     "facts": {
@@ -230,7 +230,7 @@ export const data = [
   {
     "id": "krilin", //15
     "name": "Krilin",
-    "shortDescription": "Skilled martial artist and Goku's best friend",
+    "shortDescription": "Skilled martial artist",
     "description": "Krilin is a skilled martial artist and one of Goku's closest friends in the Dragon Ball series. Despite not being a Saiyan, he has faced numerous powerful foes and played a vital role in many battles to protect Earth.",
     "imageUrl": "https://th.bing.com/th/id/OIG.zXA4hFz3SIsYR6lY3WXQ?pid=ImgGn",
     "facts": {
@@ -246,7 +246,7 @@ export const data = [
   {
     "id": "shenlong", //16
     "name": "Shenlong",
-    "shortDescription": "Eternal Dragon and granter of wishes",
+    "shortDescription": "Dragon and granter of wishes",
     "description": "Shenlong is the Eternal Dragon in the Dragon Ball series. When all seven Dragon Balls are gathered, he can be summoned to grant one wish. Shenlong is known for his immense power and role in the Dragon Ball lore.",
     "imageUrl": "https://th.bing.com/th/id/OIG.VVpBUot9dI_RFGFWNDkt?pid=ImgGn",
     "facts": {
@@ -278,7 +278,7 @@ export const data = [
   {
     "id": "marron", // 18
     "name": "Marron",
-    "shortDescription": "Daughter of Krillin and Android 18",
+    "shortDescription": "Daughter of Krillin",
     "description": "Marron is the daughter of Krillin and Android 18, appearing as a young child in Dragon Ball Z and Dragon Ball Super.",
     "imageUrl": "https://th.bing.com/th/id/OIG.aBnjp36702xz0Qp8b4fJ?pid=ImgGn",
     "facts": {
@@ -308,7 +308,7 @@ export const data = [
   },
   {
     "id": "kale-berserk", // 20
-    "name": "Kale (Berserk)",
+    "name": "Kale",
     "shortDescription": "Rampaging Saiyan",
     "description": "Kale, in her Berserk form, becomes an uncontrollable force with tremendous power and destructive potential.",
     "imageUrl": "https://th.bing.com/th/id/OIG.hWJ9g57Iipz_ESazAPFI?pid=ImgGn",
@@ -324,7 +324,7 @@ export const data = [
   },
   {
     "id": "kusu-elder", // 21
-    "name": "Kusu (Elder)",
+    "name": "Kusu",
     "shortDescription": "Wise Yardrat",
     "description": "Kusu, in his elder form, is a wise Yardrat who imparts knowledge and guidance to others.",
     "imageUrl": "https://th.bing.com/th/id/OIG.3cOMCvny_DkE0wOUAB8g?pid=ImgGn",
@@ -339,8 +339,8 @@ export const data = [
   },
   {
     "id": "videl-great-saiyaman-2", // 22
-    "name": "Videl (Great Saiyaman 2)",
-    "shortDescription": "Crime-Fighting Heroine",
+    "name": "Videl",
+    "shortDescription": "Fighting Heroine",
     "description": "Videl, as Great Saiyaman 2, joins the fight against evil as a crime-fighting heroine.",
     "imageUrl": "https://th.bing.com/th/id/OIG.QqtnbRWqr1.IR1ztZLEv?pid=ImgGn",
     "facts": {
@@ -357,7 +357,7 @@ export const data = [
     {
     "id": "Goku",//23
     "name": "Goku",
-    "shortDescription": "Saiyan martial artist and defender of Earth",
+    "shortDescription": "Saiyan martial",
     "description": "Goku is a Saiyan martial artist and the main protagonist of the Dragon Ball series. Known for his cheerful personality and insatiable appetite, Goku is a powerful defender of Earth.",
     "imageUrl": "https://th.bing.com/th/id/OIG.D8lGPrrMak1z1ldt3hee?pid=ImgGn",
     "facts": {
@@ -374,7 +374,7 @@ export const data = [
   {
     "id": "freezer", //24
     "name": "Freezer",
-    "shortDescription": "Powerful and ruthless space emperor",
+    "shortDescription": "Space emperor",
     "description": "Freezer is a powerful and ruthless space emperor in the Dragon Ball series. Known for his strength and cunning, he is a formidable adversary and a major antagonist.",
     "imageUrl": "https://th.bing.com/th/id/OIG.U6F2ggQro7Doj0QR0_2.?pid=ImgGn",
     "facts": {
