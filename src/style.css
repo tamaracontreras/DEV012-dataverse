@@ -1,187 +1,172 @@
-/* Agrega estilos para mostrar los div en columna */
-*{font-family: Arial, Helvetica, sans-serif;}
-
-  /* Estilo adicional para ajustar el espacio entre dt y dd */
- 
-  /* logo dragon Ball */
-  header{
-  background-color: aqua;
-  }
-  #logo{
-    margin-left: 100px;
-    height: 100px;
-    width: 100px;
-    border-radius: 0px 30px 0px 30px ;
-    box-shadow: inset 5px 5px 10px #c9c9c9,
-            inset -5px -5px 10px #ffffff;
-
-  }
-.name{color:blue}
-
-
-  /* //contenedor de planetas */
-.contenedor{
-  border-radius: 38px;
-  box-sizing: content-box;
-  width: 60px;
-  height: 10px;  
-  align-items: center;
-  display: flex;
-  justify-content: center;
-  font-size: 8px; 
-  border:1px solid #c9c9c9;
-  background: #F5F5F5;
-  box-shadow: 5px 5px 14px #c9c9c9,-5px -5px 14px #ffffff;
-    
-   
+body{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 
 }
-/* contenedor de ordenar */
- .contenedorDos{
-  border-radius: 38px;
-  margin-left: 10px;
-  box-sizing: content-box;
-  width: 60px;
-  height: 10px;  
-  align-items: center;
+/* estilo de la imagen del header */
+#logo{
+ 
+  height: 100px;
+  width: 100px;
+  border-radius: 0px 30px 0px 30px ;
+  box-shadow: inset 5px 5px 10px #c9c9c9,
+  inset -5px -5px 10px #ffffff;
+}
+/* estilos del filtro
+alineacion header nav h2 */
+header ,nav, h2,  footer{
   display: flex;
+  flex-flow: row wrap;
+  gap:15px;
   justify-content: center;
+  align-items: center;
+
+}
+
+select {
+  border-radius: 38px;
+  box-sizing: content-box;
+  align-items: center;
+  width: 60px;
+  height: 10px; 
+  margin-left: 10px;
   font-size: 8px;
   border:1px solid #c9c9c9;
   background: #F5F5F5;
-  box-shadow: 5px 5px 14px #c9c9c9, -5px -5px 14px #ffffff;
-  }    
-
-
-span{
- 
-    width: 80px;
-    height: 20px; 
-    align-items: center;
-    
-}
-/* estilos del filtro */
-  select {
-    border-radius: 38px;
-    box-sizing: content-box;
-    align-items: center;
-    width: 60px;
-    height: 10px; 
-    margin-left: 10px;
-    font-size: 8px;
-    border:1px solid #c9c9c9;
-    background: #F5F5F5;
-    box-shadow:  5px 5px 14px #c9c9c9, -5px -5px 14px #ffffff;
-    
+  
   }
 
 select:hover {
-    border-color:  #D67711;
-  }
+  border-color:  #D67711;
+}
 
-  option{
-    border-radius: 30px;
-  }
 
-  /* es la clase del div que contiene a los filtros y los label */
-  .container{
-  display: flex;
+/* estilo del boton de borrar filtro */
+button {
+  width: 50px;
+  margin-left: 10px;
+  border-radius: 38px;
+  box-sizing: content-box;
+  background-color:  #D67711;
+  color: #072083;
+  border:1px solid #c9c9c9;
+  box-shadow:  5px 5px 14px #c9c9c9,
+               -5px -5px 14px #ffffff;
   align-items: center;
   justify-content: center;
-  margin-top: 10px;
-  }
-
-  button {
-    width: 50px;
-    margin-left: 10px;
-    border-radius: 38px;
-    box-sizing: content-box;
-    background-color:  #D67711;
-    color: #072083;
-    border:1px solid #c9c9c9;
-    box-shadow:  5px 5px 14px #c9c9c9,
-                 -5px -5px 14px #ffffff;
-    align-items: center;
-    justify-content: center;
-    stroke: none;
-    font-size: 8px;
-  }
- 
-  li{
-    list-style: none;
-   
-    
-  }
-.card-background{
-
-  background-color: #ff6207e0;
-  margin-top: 10px 10px 10px 10px;
-  border-radius: 10px;
-  width: 90px;
-  height: 210px;
-  padding: 10px 10px 10px 10px;
+  stroke: none;
+  font-size: 8px;
 }
-dd, dt{
+
+
+/* 
+class de ul */
+.parent{
+ 
+  display: flex;
+  flex-flow: row wrap;
+  gap:30px;
+  justify-content: center;
+  margin-block-start: 10px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 0px;
+
+}
+/* estilo del li */
+.card-background{
+background-color: #ff6207e0;
+border-radius: 10px;
+list-style: none;
+width: 90px;
+height: 200px;
+padding:10px 10px 10px 10px;
+box-shadow: 5px 10px  6px #e7a27ae0;;
+
+}
+
+
+/* estilo de la imagen */
+img {
+  display: block;
+  object-fit: cover;
+  padding: 0px;
+  width: 90px;
+  height: 130px;
+  box-sizing: border-box;
+  margin-top: 0px;
+  border-radius: 60px 0px 0px 0px;
+  border: 0.2px solid whitesmoke;}
+/* selectores de info */
+
+/* 
+estilo del contenedor de la data */
+.info-container{
+width: 80px;
+height: 35px;
+margin: 5px 5px 5px 0px;
+padding:5px 5px 10px 5px ;
+background: rgba( 255, 255, 255, 0.25 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 0.2px solid whitesmoke;
+font-size: 6px;
+color: whitesmoke;
+
+
+}
+#nombreEstilo{
+display: flex;
+flex-flow: row wrap;
+width: 90px;
+background-color: whitesmoke;
+border-radius: 30px;
+text-align: center;
+
+font-size: 10px;
+margin-top: 3px;
+}
+span{
+color: #D67711;
+height: 10px;
+justify-content: center;
+
+}
+dl {
+display: block;
+margin: 0px;
+justify-content: center;
+}
+    /* contiene dd y dt */
+.alineacion{
+display: flex;
+flex-direction: row;
+/* align-items: center; */
+}    
+dd{
+display: block;
+
+
+padding-left: 3px ;
+
+
+margin: 0px;
+
+}
+dt{
+margin: 0px;
+justify-content:center;
+flex-direction: column;
+display: flex;
+}
+footer{
+  display: flex;
+  flex-flow: row wrap;
+  gap:15px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
   font-size: 7px;
 }
-  img {
-    display: block;
-    object-fit: cover;
-    width: 90px;
-    height: 130px;
-    
-    border-radius: 60px 0px 0px 0px;
-    border: 0.2px solid whitesmoke;
-    box-shadow: -2px 17px 10px 0px rgba(0,0,0,0.28);
--webkit-box-shadow: -2px 17px 10px 0px rgba(0,0,0,0.28);
--moz-box-shadow: -2px 17px 10px 0px rgba(0,0,0,0.28);
 
-  }
-  #contenedorTitulo{
-    margin: 0px;
-   border-radius: 100px;
-   width: 90px;
-   height: 8px;  
-   align-items: center;
-   background: #F5F5F5;
-   
-  }
-  h6{
-    margin: 5px 5px 5px 5px;
-  } 
-
-  .titulo{
-    
-    text-align: center;
-    color: black;
-    font-size: 7px;
-  }
-  .info-container{
-   
-    width: 80px;
-    height: 45px;
-    margin: 5px 5px 5px 0px;
-    
-    padding:5px 5px 10px 5px ;
-    background: rgba( 255, 255, 255, 0.25 );
-    backdrop-filter: blur( 4px );
-    -webkit-backdrop-filter: blur( 4px );
-    border-radius: 10px;
-    border: 0.2px solid whitesmoke;
-    font-size: 5px;
-    color: whitesmoke;
-    text-align: justify;
-
-  }
-  .estiloLetra{
-    font-weight: bold;
-    color: black;
-  }
-  .card-background p {
-    line-height: 1; /* O ajusta el valor según tus necesidades */
-    margin: 0; /* Puede ser útil para asegurarse de que no haya márgenes externos */
-  }
-  
-
-  
-  

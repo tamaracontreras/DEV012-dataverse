@@ -4,7 +4,7 @@ export const placesOfBirth = (personajes) =>{
   // del objeto data guarda un array de los lugares de nacimiento de todos los personajes
   const placeOfBirthList= personajes.map(personaje => personaje.facts.placeOfBirth);
   //guarda los lugares de nacimiento descartando los repetidos
-  const unicos= new Set(placeOfBirthList);
+  const unicos = new Set(placeOfBirthList);
 
   const lugaresUnicos = Array.from(unicos);
   
@@ -35,11 +35,11 @@ export const orderDataByName = (personajes, orden) => {
     return 0;
   })
     
-    if(orden === "desc"){
-      personajes.reverse() 
-    } 
-    return personajes
-  }
+  if(orden === "desc"){
+    personajes.reverse() 
+  } 
+  return personajes
+}
 
 // export const filterSort =(personajes, orden) =>{
 //   const personajesOrdenados = personajes.sort()
