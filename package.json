@@ -48,5 +48,8 @@
   },
   "jest": {
     "testEnvironment": "jsdom"
+  },
+  "dependencies": {
+    "lts": "^1.2.0"
   }
 }

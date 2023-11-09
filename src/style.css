@@ -21,6 +21,11 @@ header ,nav, h2,  footer{
   align-items: center;
 
 }
+label{
+  font-size: 10px;
+  color: #072083;
+  font-weight: 200;
+}
 
 select {
   border-radius: 38px;
@@ -42,20 +47,26 @@ select:hover {
 
 /* estilo del boton de borrar filtro */
 button {
-  width: 50px;
+
   margin-left: 10px;
   border-radius: 38px;
   box-sizing: content-box;
-  background-color:  #D67711;
-  color: #072083;
-  border:1px solid #c9c9c9;
-  box-shadow:  5px 5px 14px #c9c9c9,
-               -5px -5px 14px #ffffff;
+  background-color: #ff6207e0;
+  color: white;
+  height: 10px;
+  width: 60px;
   align-items: center;
-  justify-content: center;
-  stroke: none;
+  box-shadow:  5px 5px 14px #c9c9c9;
   font-size: 8px;
+  transition: transform 0.2s ease-in-out;
+  border: none;
 }
+button:active {
+  transform: translateY(3px);}
+
+button:hover {
+  border: 1px solid #072083 ;
+  }
 
 
 /* 
@@ -81,7 +92,7 @@ list-style: none;
 width: 90px;
 height: 200px;
 padding:10px 10px 10px 10px;
-box-shadow: 5px 10px  6px #e7a27ae0;;
+box-shadow: 5px 10px  6px #e7a27ae0;
 
 }
 
@@ -113,8 +124,6 @@ border-radius: 10px;
 border: 0.2px solid whitesmoke;
 font-size: 6px;
 color: whitesmoke;
-
-
 }
 #nombreEstilo{
 display: flex;
@@ -123,7 +132,6 @@ width: 90px;
 background-color: whitesmoke;
 border-radius: 30px;
 text-align: center;
-
 font-size: 10px;
 margin-top: 3px;
 }
@@ -146,11 +154,7 @@ flex-direction: row;
 }    
 dd{
 display: block;
-
-
 padding-left: 3px ;
-
-
 margin: 0px;
 
 }
@@ -169,4 +173,20 @@ footer{
   margin-top: 20px;
   font-size: 7px;
 }
+/* 
+Diseño responsivo */
+@media (min-width:400px) and (max-width:500px){
 
+}
+@media (min-width:500px) and (max-width:600px){
+  
+}
+@media (min-width:600px) and (max-width:750px){
+  
+}
+@media (min-width:750px) and (max-width:850px){
+  
+}
+@media (min-width:850px) and (max-width:3543px){
+  
+}
