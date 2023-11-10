@@ -5,8 +5,8 @@ body{
 /* estilo de la imagen del header */
 #logo{
  
-  height: 100px;
-  width: 100px;
+  height: 200px;
+  width: 200px;
   border-radius: 0px 30px 0px 30px ;
   box-shadow: inset 5px 5px 10px #c9c9c9,
   inset -5px -5px 10px #ffffff;
@@ -19,18 +19,37 @@ header ,nav, h2,  footer{
   gap:15px;
   justify-content: center;
   align-items: center;
+  color: #FF4500;
+  
+}
+ 
+header{background-color: #072083;
+  height: 150px;}
+nav{margin-top: 80px;}
 
+h1{font-size: 50px;
+color:#FF4500}
+h2{
+  font-size: 30px;
+ margin-top: 10px;
+  margin-left: 30px;
+}
+
+label{
+  font-size: 30px;
+  color: #072083;
+  font-weight: 200;
 }
 
 select {
-  border-radius: 38px;
+  border-radius: 10px;
   box-sizing: content-box;
   align-items: center;
-  width: 60px;
-  height: 10px; 
+  width: 160px;
+  height: 30px; 
   margin-left: 10px;
-  font-size: 8px;
-  border:1px solid #c9c9c9;
+  font-size: 20px;
+  border:3px solid #c9c9c9;
   background: #F5F5F5;
   
   }
@@ -42,20 +61,27 @@ select:hover {
 
 /* estilo del boton de borrar filtro */
 button {
-  width: 50px;
+
   margin-left: 10px;
   border-radius: 38px;
   box-sizing: content-box;
-  background-color:  #D67711;
-  color: #072083;
-  border:1px solid #c9c9c9;
-  box-shadow:  5px 5px 14px #c9c9c9,
-               -5px -5px 14px #ffffff;
+  background-color: #ff6207e0;
+  color: white;
+  height: 30px;
+  width: 70px;
+  font-weight: bold;
   align-items: center;
-  justify-content: center;
-  stroke: none;
-  font-size: 8px;
+  box-shadow:  5px 5px 14px #c9c9c9;
+  font-size: 15px;
+  transition: transform 0.2s ease-in-out;
+  border: none;
 }
+button:active {
+  transform: translateY(3px);}
+
+button:hover {
+  border: 1px solid #072083 ;
+  }
 
 
 /* 
@@ -64,7 +90,7 @@ class de ul */
  
   display: flex;
   flex-flow: row wrap;
-  gap:30px;
+  gap:60px;
   justify-content: center;
   margin-block-start: 10px;
   margin-block-end: 0px;
@@ -78,10 +104,11 @@ class de ul */
 background-color: #ff6207e0;
 border-radius: 10px;
 list-style: none;
-width: 90px;
-height: 200px;
+width: 200px;
+height: 430px;
 padding:10px 10px 10px 10px;
-box-shadow: 5px 10px  6px #e7a27ae0;;
+box-shadow: 5px 10px  6px #e7a27ae0;
+margin-top: 50px;
 
 }
 
@@ -91,10 +118,11 @@ img {
   display: block;
   object-fit: cover;
   padding: 0px;
-  width: 90px;
-  height: 130px;
+  width: 190px;
+  height: 260px;
   box-sizing: border-box;
-  margin-top: 0px;
+  margin-top: 10px;
+  margin-left: 5px;
   border-radius: 60px 0px 0px 0px;
   border: 0.2px solid whitesmoke;}
 /* selectores de info */
@@ -102,37 +130,41 @@ img {
 /* 
 estilo del contenedor de la data */
 .info-container{
-width: 80px;
-height: 35px;
-margin: 5px 5px 5px 0px;
-padding:5px 5px 10px 5px ;
+width: 180px;
+height: 90px;
+margin: 5px 5px 5px 5px;
+padding:5px 5px 5px 5px ;
 background: rgba( 255, 255, 255, 0.25 );
 backdrop-filter: blur( 4px );
 -webkit-backdrop-filter: blur( 4px );
 border-radius: 10px;
-border: 0.2px solid whitesmoke;
-font-size: 6px;
-color: whitesmoke;
-
-
+font-size: 15px;
+color: rgb(150, 73, 10);
+box-sizing: content-box;
 }
 #nombreEstilo{
 display: flex;
 flex-flow: row wrap;
-width: 90px;
+width: 179px;
+height: 25px;
 background-color: whitesmoke;
 border-radius: 30px;
-text-align: center;
+padding: 5px 5px;
 
-font-size: 10px;
-margin-top: 3px;
+margin-top: 10px;
+margin-left: 5px;
+justify-content: center;
 }
 span{
 color: #D67711;
-height: 10px;
-justify-content: center;
+font-size: 25px;
+align-items: center;
+font-weight: bold;
 
 }
+span:hover {
+  color: #072083 ;
+  }
 dl {
 display: block;
 margin: 0px;
@@ -146,11 +178,7 @@ flex-direction: row;
 }    
 dd{
 display: block;
-
-
 padding-left: 3px ;
-
-
 margin: 0px;
 
 }
@@ -169,4 +197,107 @@ footer{
   margin-top: 20px;
   font-size: 7px;
 }
+/* 
+Diseño responsivo */
+@media only screen and (max-width: 320px) {
+  body {background: whitesmoke;}
+  header{background:black;height: 80px;}
 
+  header , h2,  footer, button, h1{
+    display: flex;
+    flex-flow: row wrap;
+  
+    align-items: center;
+  
+  }
+  #logo{width: 100px;
+        height: 100px;
+        border-radius: 0px 10px 0px 10px ;  
+        margin-top: 15px;
+  }
+  h1{
+    font-size: 24px;
+    color: #ff6207e0;
+    margin-top: 5px;
+    margin-left: 0px;
+    
+  }
+  h2{display: none;}
+
+  nav{ margin-top: 90px;
+    margin-left: 0px;
+  }
+  label{
+    font-size: 15px;
+    color: #072083;
+    margin-left: 20px;
+    
+    
+  
+  }
+
+  select{  border-radius: 38px;
+    
+    align-items:center;
+    width: 130px;
+    height: 15px; 
+    margin-left: 10px;
+    font-size: 13px;
+    border:1px solid #c9c9c9;
+    background: #F5F5F5;
+  }
+  button {
+    border-radius: 38px;
+    box-sizing: content-box;
+    background-color: #ff6207e0;
+    color: white;
+    height: 15px;
+    width: 40px;
+    align-items: center;
+    box-shadow:  5px 5px 14px #c9c9c9;
+    font-size: 15px;
+    transition: transform 0.2s ease-in-out;
+    border: none;
+    text-align: center;
+    justify-content: center;
+  }
+.card-background{
+width: 130px;
+height: 280px;
+}
+
+img {
+
+  width: 130px;
+  height: 180px;
+  
+/* selectores de info */
+  
+}
+.parent{
+  margin-top: 10px;
+  display: flex;
+  flex-flow: row wrap;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  margin-block-start: 10px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 0px;
+
+}
+#nombreEstilo{
+  width: 130px;
+  font-weight: bold;
+  justify-content: center;
+}
+
+#nombreEstilo:hover{ color: #072083;}
+.info-container{
+  width: 119px;
+height:61px;
+font-size: 10px;}
+span{font-size: 13px;}
+}
