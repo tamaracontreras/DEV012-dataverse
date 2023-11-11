@@ -1,12 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
 body{
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 
 }
+
+
 /* estilo de la imagen del header */
 #logo{
  
   height: 200px;
   width: 200px;
+  margin-top: 20px;
   border-radius: 0px 30px 0px 30px ;
   box-shadow: inset 5px 5px 10px #c9c9c9,
   inset -5px -5px 10px #ffffff;
@@ -43,7 +51,7 @@ label{
 
 select {
   border-radius: 10px;
-  box-sizing: content-box;
+  
   align-items: center;
   width: 160px;
   height: 30px; 
@@ -64,7 +72,7 @@ button {
 
   margin-left: 10px;
   border-radius: 38px;
-  box-sizing: content-box;
+
   background-color: #ff6207e0;
   color: white;
   height: 30px;
@@ -92,13 +100,11 @@ class de ul */
   flex-flow: row wrap;
   gap:60px;
   justify-content: center;
-  margin-block-start: 10px;
-  margin-block-end: 0px;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  padding-inline-start: 0px;
-
+  margin: 20px;
 }
+/* dl{display: flex;
+
+flex-direction: column;} */
 /* estilo del li */
 .card-background{
 background-color: #ff6207e0;
@@ -118,11 +124,8 @@ img {
   display: block;
   object-fit: cover;
   padding: 0px;
-  width: 190px;
-  height: 260px;
-  box-sizing: border-box;
-  margin-top: 10px;
-  margin-left: 5px;
+  width: 100%;
+   height: 260px;
   border-radius: 60px 0px 0px 0px;
   border: 0.2px solid whitesmoke;}
 /* selectores de info */
@@ -130,93 +133,96 @@ img {
 /* 
 estilo del contenedor de la data */
 .info-container{
-width: 180px;
-height: 90px;
-margin: 5px 5px 5px 5px;
-padding:5px 5px 5px 5px ;
+width: 100%;
+height: 118px;
+
 background: rgba( 255, 255, 255, 0.25 );
 backdrop-filter: blur( 4px );
 -webkit-backdrop-filter: blur( 4px );
-border-radius: 10px;
+border-radius: 0px 0px 38px 0px;
 font-size: 15px;
-color: rgb(150, 73, 10);
-box-sizing: content-box;
+color: whitesmoke;
+line-height: 1.2;
+padding: 8px;
+
 }
+
+
+dt{
+  margin: 0px;
+  display: inline;
+  }
+
+dd{display: inline;}  
+/* 
+estilo del div que contiene el nombre del personaje */
 #nombreEstilo{
-display: flex;
-flex-flow: row wrap;
-width: 179px;
+
+width: 100%;
 height: 25px;
 background-color: whitesmoke;
-border-radius: 30px;
-padding: 5px 5px;
+border-radius: 0px;
+padding: 0px 0px;
+align-content: center;
+margin-top: 5px;
 
-margin-top: 10px;
-margin-left: 5px;
 justify-content: center;
 }
+
+
+/* 
+  estilo del nombre del personaje */
 span{
 color: #D67711;
 font-size: 25px;
 align-items: center;
 font-weight: bold;
+display: flex;
+justify-content: center;
+
 
 }
 span:hover {
   color: #072083 ;
   }
-dl {
-display: block;
-margin: 0px;
-justify-content: center;
-}
-    /* contiene dd y dt */
-.alineacion{
-display: flex;
-flex-direction: row;
-/* align-items: center; */
-}    
-dd{
-display: block;
-padding-left: 3px ;
-margin: 0px;
 
-}
-dt{
-margin: 0px;
-justify-content:center;
-flex-direction: column;
-display: flex;
-}
+
+
+/* align-items: center; */
+
+
+
 footer{
   display: flex;
   flex-flow: row wrap;
   gap:15px;
   justify-content: center;
   align-items: center;
-  margin-top: 20px;
-  font-size: 7px;
+  margin-top: 40px;
+  font-size: 25px;
+  height: 100px;
+  background-color: #072083;
 }
-/* 
-Diseño responsivo */
-@media only screen and (max-width: 320px) {
+
+
+
+
+
+
+/* DISEÑO RESPONSIVO */
+@media only screen and (max-width: 600px) {
   body {background: whitesmoke;}
-  header{background:black;height: 80px;}
+  header{background:black;height: 180px;}
 
   header , h2,  footer, button, h1{
     display: flex;
     flex-flow: row wrap;
-  
-    align-items: center;
-  
+   align-items: center;
   }
-  #logo{width: 100px;
-        height: 100px;
-        border-radius: 0px 10px 0px 10px ;  
-        margin-top: 15px;
-  }
+
+
   h1{
-    font-size: 24px;
+    font-size: 34px;
     color: #ff6207e0;
     margin-top: 5px;
     margin-left: 0px;
@@ -224,52 +230,43 @@ Diseño responsivo */
   }
   h2{display: none;}
 
-  nav{ margin-top: 90px;
+  nav{ margin-top: 120px;
     margin-left: 0px;
   }
   label{
-    font-size: 15px;
+    font-size: 25px;
     color: #072083;
     margin-left: 20px;
-    
-    
-  
   }
 
-  select{  border-radius: 38px;
-    
-    align-items:center;
+  select{ 
+    border-radius: 38px;
     width: 130px;
-    height: 15px; 
-    margin-left: 10px;
-    font-size: 13px;
+    height: 25px; 
+   
+    font-size: 23px;
     border:1px solid #c9c9c9;
     background: #F5F5F5;
   }
   button {
     border-radius: 38px;
-    box-sizing: content-box;
+   
     background-color: #ff6207e0;
-    color: white;
-    height: 15px;
-    width: 40px;
-    align-items: center;
-    box-shadow:  5px 5px 14px #c9c9c9;
-    font-size: 15px;
-    transition: transform 0.2s ease-in-out;
-    border: none;
-    text-align: center;
+    height: 25px;
+    width: 90px;
+    font-size: 20px;
+    font-weight: lighter;
     justify-content: center;
   }
 .card-background{
-width: 130px;
-height: 280px;
+width: 230px;
+height: 560px;
 }
 
 img {
 
-  width: 130px;
-  height: 180px;
+  width: 220px;
+  height: 360px;
   
 /* selectores de info */
   
@@ -296,8 +293,8 @@ img {
 
 #nombreEstilo:hover{ color: #072083;}
 .info-container{
-  width: 119px;
-height:61px;
+  width: 220px;
+
 font-size: 10px;}
 span{font-size: 13px;}
 }

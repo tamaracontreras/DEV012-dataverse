@@ -18,23 +18,22 @@ export const renderItems = (personajes) => {
   <div id ="nombreEstilo">
   <dd itemprop="name" > <span>${personaje.name}</span></dd>
   </div>
+  
   <div class ="info-container">
+    <div class="info">
+      <dt> Description:</dt> <dd itemprop="shortDescription">${personaje.shortDescription}</dd>
+    </div>
+    <div class="info">
+      <dt>Planet Of Birth:</dt><dd itemprop="placeOfBirth"> ${personaje.facts.placeOfBirth}<dd/>
+    </div>
+   
+    <div class="info">
+      <dt>Year Of Birth:</dt><dd itemprop="yearOfBirth"> ${parseFloat(personaje.facts.yearOfBirth)}</dd>
+    </div>
+    <div class="info">
+    <dt>Field of Study:</dt><dd itemprop="mainField"> ${personaje.facts.mainField}</dd>
+    </div>
   
-  <div class= "alineacion">
-  <dt>Description:</dt><dd itemprop="shortDescription">${personaje.shortDescription}</dd>
-  </div>
-  
-  <div class= "alineacion">
-  <dt>Planet Of Birth:</dt><dd itemprop="placeOfBirth"> ${personaje.facts.placeOfBirth}<dd/>
-  </div>
-  
-  <div class= "alineacion">
-  <dt>Year Of Birth:</dt><dd itemprop="yearOfBirth"> ${parseFloat(personaje.facts.yearOfBirth)}</dd>
-  </div>
-  
-  <div class= "alineacion">
-  <dt>Field of Study:</dt> <dd itemprop="mainField"> ${personaje.facts.mainField}</dd>
-  </div>
   </div>
   </dl>
 
