@@ -11,7 +11,7 @@ const personajes = data
 export const renderItems = (personajes) => {
   let cards ='' 
   personajes?.forEach(personaje => {
-  cards += `<li  class="card-background" itemtype="DragonBall">
+  cards += `<li itemprop="card" class="card-background" itemtype="DragonBall">
   <dl itemscope itemtype="DragonBall">
   <img src="${personaje.imageUrl}" alt="${personaje.name}"/>
   
