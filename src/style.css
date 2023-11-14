@@ -228,14 +228,13 @@ footer{
   header{background:#072083;height: 180px;}
 
   header , h2,  footer, button, h1, nav{
-    display: flex;
-    flex-flow: row wrap;
-   align-items: center;
-   justify-content: center;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
   }
 
-
-  h1{
+h1{
     font-size: 40px;
     color: whitesmoke;
     margin-top: 5px;
