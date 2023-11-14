@@ -35,13 +35,13 @@ header ,nav, h2,  footer{
 
 
  
-header{background-color: #072083;
+header{background-color:  #ff6207e0;
   height: 150px;
   }
 nav{margin-top: 80px;}
 
 h1{font-size: 50px;
-color:#FF4500}
+color:whitesmoke}
 h2{
   font-size: 30px;
  margin-top: 10px;
@@ -225,7 +225,7 @@ footer{
 @media only screen and (min-width: 600px) and (max-width: 768px) {
   
   body {background: whitesmoke;}
-  header{background:black;height: 180px;}
+  header{background:#072083;height: 180px;}
 
   header , h2,  footer, button, h1, nav{
     display: flex;
@@ -236,8 +236,8 @@ footer{
 
 
   h1{
-    font-size: 35px;
-    color: #ff6207e0;
+    font-size: 40px;
+    color: whitesmoke;
     margin-top: 5px;
     margin-left: 0px;
     text-align: center;
