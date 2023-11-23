@@ -178,25 +178,21 @@ export const data = [
     }
   },
   {
-    
-      "id": "maestroRoshi",
-      "name": "Maestro Roshi",
-      "shortDescription": "Turtle Hermit",
-      "description": "Master Roshi, also known as the Turtle Hermit, is a skilled martial artist and the creator of the Kamehameha technique.",
-      "imageUrl": "https://th.bing.com/th/id/OIG.q8jCYX787zYRzvEykwrT?w=1024&h=1024&rs=1&pid=ImgDetMain",
-      "facts": {
-        "yearOfBirth": null,
-        "placeOfBirth": "Unknown",
-        "mainField": "Martial Arts"
-      },
-      "extraInfo": {
-        "gender": "Male",
-        "imageSource": "https://www.bing.com/images/create/maestro-roshi--en-la-isla--dragon-ball-3d-arte/1-655ebe6d8e644f00b9cf2391d4840f3a?id=mZYDu38JH0%2fl2UUWomtG%2bg%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
-      }
-    
-    
+    "id": "kale", // 12
+    "name": "Kale",
+    "shortDescription": "Legendary Saiyan",
+    "description": "Kale is a Saiyan from Universe 6 who becomes a Legendary Super Saiyan, possessing immense power.",
+    "imageUrl": "https://th.bing.com/th/id/OIG.ukzdln2Cg225H1k8AyHF?pid=ImgGn",
+    "facts": {
+      "yearOfBirth": null,
+      "placeOfBirth": "Sadala",
+      "mainField": "Combat"
     },
-  
+    "extraInfo": {
+      "gender": "Female",
+      "imageSource": "https://www.bing.com/images/create/kale-supersaiyana-devastadora2c-3d/652851d0a8c1439a8e8cbb11d0881ba4?id=JSMEDWyg7OxSF5CUETQ4xA%3D%3D&view=detailv2&idpp=genimg&form=GCRIDP&ajaxhist=0&ajaxserp=0"
+    }
+  },
   {
     "id": "gohan", //13
     "name": "Gohan",
