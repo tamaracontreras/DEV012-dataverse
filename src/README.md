@@ -1,5 +1,7 @@
 
- (images/Screenshot_1.png)
+ ![Texto alternativo](images/Screenshot_1.png)
+
+
 
 # Proyecto Dragon Ball Cards en 3D
 
