@@ -1,5 +1,5 @@
 
- ![Texto alternativo](/DEV012-dataverse/images/Screenshot_1.png)
+ ![portada](../src/images/Screenshot_1.jpg)
 
 
 
