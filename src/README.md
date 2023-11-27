@@ -31,7 +31,8 @@ Este proyecto incluye diversas funcionalidades para mejorar la experiencia del u
 
 El proceso de diseño se centró en la creación de una interfaz atractiva que emula cartas de juego, que  permitiera a los usuarios visualizar la información de los personajes de Dragon Ball a grades rasgos. Las imágenes en 3D en este proyecto busca agregar un elemento interactivo y visualmente impactante a la experiencia del usuario.
 
-(images/Screenshot_2.png)
+(images/Screenshot_1.jpg)
+
 
 ## Tecnologías Utilizadas
 
