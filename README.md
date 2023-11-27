@@ -8,11 +8,11 @@
 ## Tabla de Contenidos
 - [Definición](#definición-del-Producto)
 - [Funcionalidades](#funcionalidades)
-- [Proceso de Diseño](#proceso-de-diseño)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Estructura del Código](#estructura-del-código)
+- [Proceso de Diseño](#proceso-de-diseno)
+- [Tecnologías Utilizadas](#tecnologias-utilizadas)
+- [Estructura del Código](#estructura-del-codigo)
 - [Uso](#uso)
-- [Contribución y Desarrollo](#contribución-y-desarrollo)
+- [Contribución y Desarrollo](#contribuciones-y-desarrollo)
 
 ## Definición del Producto
 
