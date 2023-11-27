@@ -1,5 +1,5 @@
 
- ![portada](../src/images/Screenshot_1.jpg)
+ ![portada](/images/Screenshot_1.jpg)
 
 
 
