@@ -1,5 +1,8 @@
 {
   "env": {
+<<<<<<< HEAD
+    "jest": true
+=======
     "browser": true
   },
   "parserOptions": {
@@ -14,5 +17,6 @@
     "prefer-const": "error",
     "eqeqeq": "error",
     "indent": ["error", 2]
+>>>>>>> c1636e1ed82282df657ea224521277b3134108d3
   }
 }
