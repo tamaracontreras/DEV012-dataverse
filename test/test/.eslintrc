@@ -1,0 +1,22 @@
+{
+  "env": {
+<<<<<<< HEAD
+    "jest": true
+=======
+    "browser": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "extends": "eslint:recommended",
+  "rules": {
+    "no-console": "warn",
+    "import/extensions": 0,
+    "no-var": "error",
+    "prefer-const": "error",
+    "eqeqeq": "error",
+    "indent": ["error", 2]
+>>>>>>> c1636e1ed82282df657ea224521277b3134108d3
+  }
+}

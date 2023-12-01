@@ -1,30 +1,15 @@
-<<<<<<< HEAD
 ![Inicioapp](images/Screenshot_2.png)
-=======
-
- ![portada](../src/images/Screenshot_1.jpg)
-
-
->>>>>>> c9eb7701588520bc5179ebc8cfafdc5adf01b300
 
 # Proyecto Dragon Ball Cards en 3D
 
 ## Tabla de Contenidos
 - [Definición](#definición-del-Producto)
 - [Funcionalidades](#funcionalidades)
-<<<<<<< HEAD
 - [Proceso de Diseño](#proceso-de-diseño)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Estructura del Código](#estructura-del-código)
 - [Uso](#uso)
 - [Contribución y Desarrollo](#contribuci-y-desarrollo)
-=======
-- [Proceso de Diseño](#proceso-de-diseno)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Estructura del Código](#estructura-del-código)
-- [Uso](#uso)
-- [Contribución y Desarrollo](#contribuciones-y-desarrollo)
->>>>>>> c9eb7701588520bc5179ebc8cfafdc5adf01b300
 
 ## Definición del Producto
 
@@ -48,9 +33,6 @@ El proceso de diseño se centró en la creación de una interfaz atractiva que e
 [mobil](images/mobil.png)
 [mobil](images/mobil2.png)
 [laptop](images/laptop.png)
-
-
-(images/Screenshot_1.jpg)
 
 
 ## Tecnologías Utilizadas
