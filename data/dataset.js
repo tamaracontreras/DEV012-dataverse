@@ -21,7 +21,7 @@ export const data = [
     "name": "Bulma's Mom",
     "shortDescription": "Supportive Mother",
     "description": "Bulma's mother is a caring and supportive figure in Bulma's life, providing guidance and encouragement.",
-    "imageUrl":" https://th.bing.com/th/id/OIG.MQ8N9WWarFrzYdiP6o.L?pid=ImgGn",
+    "imageUrl":"images/bulma.jpg",
     "facts": {
       "yearOfBirth": 47,
       "placeOfBirth": "Earth",
@@ -37,7 +37,7 @@ export const data = [
     "name": "Vegeta",
     "shortDescription": " Saiyan rival of Goku",
     "description": "Vegeta is the proud Saiyan prince and a powerful warrior in the Dragon Ball series. Initially introduced as an antagonist, he later becomes one of Earth's greatest defenders and a key ally.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.Z..46KRYEDEJEYhjfnNP?pid=ImgGn",
+    "imageUrl": "images/vegeta.jpg",
     "facts": {
       "yearOfBirth": 48,
       "placeOfBirth": "Vegeta",
@@ -53,7 +53,7 @@ export const data = [
     "name": "Pan",
     "shortDescription": "Granddaughter of Goku",
     "description": "Pan is the granddaughter of Goku and Chi-Chi, appearing in Dragon Ball GT as a young and adventurous Saiyan.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.MshG9VLcvVCzbpgkBebm?pid=ImgGn",
+    "imageUrl": "images/pan.jpg",
     "facts": {
       "yearOfBirth": 779,
       "placeOfBirth": "Earth",
@@ -69,7 +69,7 @@ export const data = [
     "name": "Android 21",
     "shortDescription": "Android Scientist",
     "description": "Android 21 is an original character in the Dragon Ball universe, known for her scientific expertise.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.aei.b7RbfT9ilDlT7MC.?pid=ImgGn",
+    "imageUrl": "images/androide_21.jpg",
     "facts": {
       "yearOfBirth": 10,
       "placeOfBirth": "Earth",
@@ -85,7 +85,7 @@ export const data = [
     "name": "Miguel",
     "shortDescription": "Supportive Parent",
     "description": "Videl's mother is a supportive figure in Videl's life, encouraging her daughter's martial arts pursuits.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.laKkmS1qLiDPS_d6WIER?pid=ImgGn",
+    "imageUrl": "images/miguel.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Earth",
@@ -102,7 +102,7 @@ export const data = [
     "name": "Piccolo",
     "shortDescription": "Namekian warrior",
     "description": "Piccolo is a Namekian warrior in the Dragon Ball series. Originally a formidable enemy, he later becomes a mentor and protector, especially to Gohan, and plays a crucial role in defending Earth.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.pR.cUQLNANnwRLEGD9Cx?pid=ImgGn",
+    "imageUrl": "images/piccolo.jpg",
     "facts": {
       "yearOfBirth": 27,
       "placeOfBirth": "Namek",
@@ -118,7 +118,7 @@ export const data = [
     "name": "Videl",
     "shortDescription": "Martial Artist",
     "description": "Videl is the daughter of Mr. Satan and the wife of Gohan. She is a skilled martial artist.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.aR_iuxFvX_mVV0SE3fvq?pid=ImgGn",
+    "imageUrl": "images/videl.jpg",
     "facts": {
       "yearOfBirth": 756,
       "placeOfBirth": "Earth",
@@ -134,7 +134,7 @@ export const data = [
     "name": "Towa",
     "shortDescription": "Dark Sorceress",
     "description": "Towa is a dark sorceress and a key antagonist in Dragon Ball Xenoverse, manipulating time for her nefarious purposes.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.FKJ_ptkDj5YGTp0gFs.7?pid=ImgGn",
+    "imageUrl": "images/towa.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Demon Realm",
@@ -150,7 +150,7 @@ export const data = [
     "name": "Trunks",
     "shortDescription": "Half-Saiyan warrior",
     "description": "Trunks is a half-Saiyan, half-Human character in the Dragon Ball series. He is a skilled warrior and a time traveler, playing a crucial role in facing various threats to the Earth and its timeline.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.92YllPMu49c3Iceltk1P?pid=ImgGn",
+    "imageUrl": "images/trunks.jpg",
     "facts": {
       "yearOfBirth": 766,
       "placeOfBirth": "Earth",
@@ -166,7 +166,7 @@ export const data = [
     "name": "Brianne",
     "shortDescription": "Magical Girl",
     "description": "Brianne de Chateau, also known as Ribrianne, is a warrior from Universe 2 who transforms into a powerful magical girl.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.dwasDP1v2UmjT9QH6AWE?pid=ImgGn",
+    "imageUrl": "images/brianne.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Universe 2",
@@ -183,10 +183,10 @@ export const data = [
       "name": "Maestro Roshi",
       "shortDescription": "Turtle Hermit",
       "description": "Master Roshi, also known as the Turtle Hermit, is a skilled martial artist and the creator of the Kamehameha technique.",
-      "imageUrl": "https://th.bing.com/th/id/OIG.q8jCYX787zYRzvEykwrT?w=1024&h=1024&rs=1&pid=ImgDetMain",
+      "imageUrl": "images/Roshi.jpg",
       "facts": {
         "yearOfBirth": null,
-        "placeOfBirth": "Unknown",
+        "placeOfBirth": "Earth",
         "mainField": "Martial Arts"
       },
       "extraInfo": {
@@ -202,7 +202,7 @@ export const data = [
     "name": "Gohan",
     "shortDescription": "Saiyan-Human",
     "description": "Gohan is a Saiyan-Human hybrid in the Dragon Ball series. Initially introduced as a child, he grows to become a powerful scholar warrior, balancing his intellect with formidable combat skills.",
-    "imageUrl": "https://th.bing.com/th/id/OIG..dKkLkd4s7fs4r842OM8?pid=ImgGn",
+    "imageUrl": "images/Gohan.jpg",
     "facts": {
       "yearOfBirth": 757,
       "placeOfBirth": "Earth",
@@ -218,7 +218,7 @@ export const data = [
     "name": "Zangya",
     "shortDescription": "Space Pirate",
     "description": "Zangya is a space pirate and a character from the Dragon Ball Z movie, Bojack Unbound.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.ruTGe7Gzkjzqu4oYD.fA?pid=ImgGn",
+    "imageUrl": "images/Zangya.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Universe 6",
@@ -236,7 +236,7 @@ export const data = [
     "name": "Krilin",
     "shortDescription": "Skilled martial artist",
     "description": "Krilin is a skilled martial artist and one of Goku's closest friends in the Dragon Ball series. Despite not being a Saiyan, he has faced numerous powerful foes and played a vital role in many battles to protect Earth.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.zXA4hFz3SIsYR6lY3WXQ?pid=ImgGn",
+    "imageUrl": "images/Krilin.jpg",
     "facts": {
       "yearOfBirth": 736,
       "placeOfBirth": "Earth",
@@ -252,7 +252,7 @@ export const data = [
     "name": "Shenlong",
     "shortDescription": "Dragon and granter of wishes",
     "description": "Shenlong is the Eternal Dragon in the Dragon Ball series. When all seven Dragon Balls are gathered, he can be summoned to grant one wish. Shenlong is known for his immense power and role in the Dragon Ball lore.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.VVpBUot9dI_RFGFWNDkt?pid=ImgGn",
+    "imageUrl": "images/shen_long.jpg",
     "facts": {
       "yearOfBirth": "Eternal",
       "placeOfBirth": "Earth",
@@ -268,7 +268,7 @@ export const data = [
     "name": "Tights",
     "shortDescription": "Bulma's Sister",
     "description": "Tights is Bulma's older sister, known for her intelligence and supportive role in Dragon Ball Super.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.Tw7qIG1itKxBFBWpjE9R?pid=ImgGn",
+    "imageUrl": "images/Tights.jpg",
     "facts": {
       "yearOfBirth": 28,
       "placeOfBirth": "Earth",
@@ -284,7 +284,7 @@ export const data = [
     "name": "Marron",
     "shortDescription": "Daughter of Krillin",
     "description": "Marron is the daughter of Krillin and Android 18, appearing as a young child in Dragon Ball Z and Dragon Ball Super.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.aBnjp36702xz0Qp8b4fJ?pid=ImgGn",
+    "imageUrl": "images/Marron.jpg",
     "facts": {
       "yearOfBirth": 9,
       "placeOfBirth": "Earth",
@@ -299,7 +299,7 @@ export const data = [
     "name": "Vados",
     "shortDescription": "Angel Attendant",
     "description": "Vados is Whis's older sister and the attendant to Champa, the God of Destruction of Universe 6.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.Rskz2AUePWGTYlyavRXS?pid=ImgGn&w=1024&h=1024&rs=1",
+    "imageUrl": "images/vados.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Heaven",
@@ -315,7 +315,7 @@ export const data = [
     "name": "Kale",
     "shortDescription": "Rampaging Saiyan",
     "description": "Kale, in her Berserk form, becomes an uncontrollable force with tremendous power and destructive potential.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.hWJ9g57Iipz_ESazAPFI?pid=ImgGn",
+    "imageUrl": "images/kale.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Sadala",
@@ -331,7 +331,7 @@ export const data = [
     "name": "Kusu",
     "shortDescription": "Wise Yardrat",
     "description": "Kusu, in his elder form, is a wise Yardrat who imparts knowledge and guidance to others.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.3cOMCvny_DkE0wOUAB8g?pid=ImgGn",
+    "imageUrl": "images/kusu-elder.jpg",
     "facts": {
       "yearOfBirth": null,
       "placeOfBirth": "Yardrat",
@@ -346,7 +346,7 @@ export const data = [
     "name": "Videl",
     "shortDescription": "Fighting Heroine",
     "description": "Videl, as Great Saiyaman 2, joins the fight against evil as a crime-fighting heroine.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.QqtnbRWqr1.IR1ztZLEv?pid=ImgGn",
+    "imageUrl": "images/videl.jpg",
     "facts": {
       "yearOfBirth": 773,
       "placeOfBirth": "Earth",
@@ -363,7 +363,7 @@ export const data = [
     "name": "Goku",
     "shortDescription": "Saiyan martial",
     "description": "Goku is a Saiyan martial artist and the main protagonist of the Dragon Ball series. Known for his cheerful personality and insatiable appetite, Goku is a powerful defender of Earth.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.D8lGPrrMak1z1ldt3hee?pid=ImgGn",
+    "imageUrl": "images/goku.jpg",
     "facts": {
       "yearOfBirth": 25,
       "placeOfBirth": "Vegeta",
@@ -380,7 +380,7 @@ export const data = [
     "name": "Freezer",
     "shortDescription": "Space emperor",
     "description": "Freezer is a powerful and ruthless space emperor in the Dragon Ball series. Known for his strength and cunning, he is a formidable adversary and a major antagonist.",
-    "imageUrl": "https://th.bing.com/th/id/OIG.U6F2ggQro7Doj0QR0_2.?pid=ImgGn",
+    "imageUrl": "images/freezer.jpg",
     "facts": {
       "yearOfBirth": 70,
       "placeOfBirth": "Changlong",

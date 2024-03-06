@@ -1,5 +1,5 @@
 
- ![Texto alternativo](./images/Screenshot_1.jpg)
+ ![portada](../src/images/Screenshot_1.jpg)
 
 
 
@@ -9,8 +9,8 @@
 - [Definición](#definición-del-Producto)
 - [Funcionalidades](#funcionalidades)
 - [Proceso de Diseño](#proceso-de-diseno)
-- [Tecnologías Utilizadas](#tecnologias-utilizadas)
-- [Estructura del Código](#estructura-del-codigo)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Estructura del Código](#estructura-del-código)
 - [Uso](#uso)
 - [Contribución y Desarrollo](#contribuciones-y-desarrollo)
 
@@ -31,9 +31,9 @@ Este proyecto incluye diversas funcionalidades para mejorar la experiencia del u
 
 ## Proceso de Diseño
 
-El proceso de diseño se centró en la creación de una interfaz atractiva que emula cartas de juego, que  permitiera a los usuarios visualizar la información de los personajes de Dragon Ball a grades rasgos. Las imágenes en 3D en este proyecto busca agregar un elemento interactivo y visualmente impactante a la experiencia del usuario. Incluye vistas para diferentes dispositivos
+El proceso de diseño se centró en la creación de una interfaz atractiva que emula cartas de juego, que  permitiera a los usuarios visualizar la información de los personajes de Dragon Ball a grades rasgos. Las imágenes en 3D en este proyecto busca agregar un elemento interactivo y visualmente impactante a la experiencia del usuario.
 
-![cards](./images/Screenshot_3.jpg)
+(images/Screenshot_1.jpg)
 
 
 ## Tecnologías Utilizadas
