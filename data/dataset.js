@@ -113,22 +113,7 @@ export const data = [
       "imageSource": "https://www.bing.com/images/create/piccolo-daimac58d-2c--tono-de-piel-verde2c--destruyendo/652872fbf6414c6ba3a23d7eb7b3183f?id=PWOdkF9UB8a4N6fSw6mrVg%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay"
     }
   },
-  {
-    "id": "videl", // 8
-    "name": "Videl",
-    "shortDescription": "Martial Artist",
-    "description": "Videl is the daughter of Mr. Satan and the wife of Gohan. She is a skilled martial artist.",
-    "imageUrl": "images/videl.jpg",
-    "facts": {
-      "yearOfBirth": 756,
-      "placeOfBirth": "Earth",
-      "mainField": "Martial Arts"
-    },
-    "extraInfo": {
-      "gender": "Female",
-      "imageSource": "https://www.bing.com/images/create/videl--cabello-negro-largo-3d/65281c23726342cda8da0706fd60f540?id=WxDz9nMa7NVc90PfMJVg1g%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&ajaxhist=0&ajaxserp=0"
-    }
-  },
+  
   {
     "id": "towa", // 9
     "name": "Towa",
